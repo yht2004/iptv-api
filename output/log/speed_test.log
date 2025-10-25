@@ -1,13 +1,2 @@
-Name: CCTV-2, URL: http://1.31.14.70:54321/hls/4/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-内蒙古-赤峰, ISP: 联通, Date: None, Delay: 10104 ms, Speed: 0.08 M/s, Resolution: 1920x1080
-Name: CCTV-3, URL: http://1.31.14.70:54321/hls/6/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-内蒙古-赤峰, ISP: 联通, Date: None, Delay: 10111 ms, Speed: 0.18 M/s, Resolution: 1920x1080
-Name: CCTV-2, URL: http://218.19.109.221:808/hls/2/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 电信, Date: None, Delay: 10579 ms, Speed: 0.02 M/s, Resolution: None
 Name: 自定义频道名称1, URL: https://xxx.m3u8, From: local, IPv_Type: ipv4, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-5, URL: http://php.cqshushu.ggff.net/jzb.php?id=cctv5&公众号【医工学习日志】, From: subscribe, IPv_Type: ipv4, Location: 中国-香港-新界, ISP: LARUS, Date: None, Delay: 2167 ms, Speed: 0.92 M/s, Resolution: 1920x1080
-Name: CCTV-1, URL: http://218.19.108.170:808/hls/1/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 电信, Date: None, Delay: 10257 ms, Speed: 0.06 M/s, Resolution: 720x576
-Name: CCTV-4, URL: http://218.19.108.170:808/hls/3/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 电信, Date: None, Delay: 10254 ms, Speed: 0.03 M/s, Resolution: 1920x1080
-Name: CCTV-3, URL: http://sh.lnott.top:880/dx03.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-辽宁-鞍山, ISP: 移动, Date: None, Delay: 10948 ms, Speed: 0.23 M/s, Resolution: None
-Name: CCTV-2, URL: http://218.19.108.170:808/hls/2/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 电信, Date: None, Delay: 10554 ms, Speed: 0.04 M/s, Resolution: None
-Name: CCTV-1, URL: http://218.19.109.221:808/hls/1/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-4, URL: http://218.19.108.185:808/hls/3/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-1, URL: http://218.19.108.185:808/hls/1/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-4, URL: http://218.19.109.221:808/hls/3/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 电信, Date: None, Delay: 10545 ms, Speed: 0.02 M/s, Resolution: None
+Name: CCTV-5, URL: http://php.cqshushu.ggff.net/jzb.php?id=cctv5&公众号【医工学习日志】, From: subscribe, IPv_Type: ipv4, Location: 中国-香港-新界, ISP: LARUS, Date: None, Delay: 2935 ms, Speed: 0.90 M/s, Resolution: 1920x1080
