@@ -1,7 +1,2 @@
 Name: 自定义频道名称1, URL: https://xxx.m3u8, From: local, IPv_Type: ipv4, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-1, URL: http://112.6.239.227:8207/hls/1/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-山东, ISP: 移动, Date: None, Delay: 10306 ms, Speed: 0.08 M/s, Resolution: None
-Name: CCTV-4, URL: http://112.6.239.227:8207/hls/4/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-山东, ISP: 移动, Date: None, Delay: 10368 ms, Speed: 0.10 M/s, Resolution: None
-Name: CCTV-3, URL: http://112.6.239.227:8207/hls/3/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-山东, ISP: 移动, Date: None, Delay: 10806 ms, Speed: 0.07 M/s, Resolution: None
-Name: CCTV-2, URL: http://112.6.239.227:8207/hls/2/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-山东, ISP: 移动, Date: None, Delay: 10022 ms, Speed: 0.06 M/s, Resolution: None
-Name: CCTV-5, URL: http://112.6.239.227:8207/hls/5/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-山东, ISP: 移动, Date: None, Delay: 10644 ms, Speed: 0.06 M/s, Resolution: None
-Name: CCTV-1, URL: http://171.116.216.113:10010/rtp/226.0.1.157:3086, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-太原, ISP: 联通, Date: None, Delay: 439 ms, Speed: 0.07 M/s, Resolution: None
+Name: CCTV-1, URL: http://171.116.216.113:10010/rtp/226.0.1.157:3086, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-太原, ISP: 联通, Date: None, Delay: 520 ms, Speed: 0.07 M/s, Resolution: None
