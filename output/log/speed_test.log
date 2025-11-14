@@ -1,2 +1,15 @@
+Name: CCTV-1, URL: http://120.46.223.160/PHP/MG.php?id=608807420, From: subscribe, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 华为云, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-2, URL: http://120.46.223.160/PHP/MG.php?id=631780532, From: subscribe, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 华为云, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-1, URL: http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 腾讯云, Date: None, Delay: 1204 ms, Speed: 3.49 M/s, Resolution: 1920x1080
+Name: CCTV-2, URL: http://106.53.99.30/php/cctv/cctvnews.php?id=cctv2&q=gq, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 腾讯云, Date: None, Delay: 1418 ms, Speed: 3.27 M/s, Resolution: 1920x1080
+Name: CCTV-4, URL: http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4&q=gq, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 腾讯云, Date: None, Delay: 1866 ms, Speed: 2.60 M/s, Resolution: 1920x1080
 Name: 自定义频道名称1, URL: https://xxx.m3u8, From: local, IPv_Type: ipv4, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-1, URL: http://171.116.216.113:10010/rtp/226.0.1.157:3086, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-太原, ISP: 联通, Date: None, Delay: 555 ms, Speed: 0.10 M/s, Resolution: None
+Name: CCTV-4, URL: http://120.46.223.160/PHP/MG.php?id=631780421, From: subscribe, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 华为云, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-5, URL: http://120.46.223.160/PHP/MG.php?id=641886683, From: subscribe, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 华为云, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-3, URL: http://120.46.223.160/PHP/MG.php?id=624878271, From: subscribe, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 华为云, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-2, URL: http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-2-HD-265-8M/G_CCTV-2-HD-265-8M.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-浙江-温州, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-4, URL: http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4-HD-265-8M/G_CCTV-4-HD-265-8M.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-浙江-温州, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-3, URL: http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-3-HD-265-8M/G_CCTV-3-HD-265-8M.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-浙江-温州, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-1, URL: http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-1-HD-265-5M/G_CCTV-1-HD-265-5M.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-浙江-温州, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-5, URL: http://122.228.73.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-5-HD-265-8M/G_CCTV-5-HD-265-8M.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-浙江-温州, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-1, URL: http://171.116.216.113:10010/rtp/226.0.1.157:3086, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-太原, ISP: 联通, Date: None, Delay: 455 ms, Speed: 0.07 M/s, Resolution: None
