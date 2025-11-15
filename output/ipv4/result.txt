@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-15 18:15:45,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
+2025-11-16 06:12:59,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
 
 📺央视频道,#genre#
 CCTV-1,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq

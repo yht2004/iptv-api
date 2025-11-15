@@ -1,7 +1,5 @@
 Name: 自定义频道名称1, URL: https://xxx.m3u8, From: local, IPv_Type: ipv4, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-1, URL: http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 腾讯云, Date: None, Delay: 1173 ms, Speed: 3.70 M/s, Resolution: 1920x1080
-Name: CCTV-2, URL: http://106.53.99.30/php/cctv/cctvnews.php?id=cctv2&q=gq, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 腾讯云, Date: None, Delay: 2305 ms, Speed: 2.70 M/s, Resolution: 1920x1080
-Name: CCTV-4, URL: http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4&q=gq, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 腾讯云, Date: None, Delay: 1888 ms, Speed: 2.62 M/s, Resolution: 1920x1080
-Name: CCTV-1, URL: http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-1H265_4000.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-浙江-温州, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-5, URL: http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-5H265_4000.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-浙江-温州, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-1, URL: http://171.116.216.113:10010/rtp/226.0.1.157:3086, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-太原, ISP: 联通, Date: None, Delay: 432 ms, Speed: 0.07 M/s, Resolution: None
+Name: CCTV-1, URL: http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 腾讯云, Date: None, Delay: 1061 ms, Speed: 4.78 M/s, Resolution: 1920x1080
+Name: CCTV-2, URL: http://106.53.99.30/php/cctv/cctvnews.php?id=cctv2&q=gq, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 腾讯云, Date: None, Delay: 2119 ms, Speed: 3.23 M/s, Resolution: 1920x1080
+Name: CCTV-4, URL: http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4&q=gq, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 腾讯云, Date: None, Delay: 2141 ms, Speed: 1.90 M/s, Resolution: 1920x1080
+Name: CCTV-1, URL: http://171.116.216.113:10010/rtp/226.0.1.157:3086, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-太原, ISP: 联通, Date: None, Delay: 484 ms, Speed: 0.04 M/s, Resolution: None
