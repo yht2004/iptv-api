@@ -1,13 +1,9 @@
 🕘️更新时间,#genre#
-2025-11-19 18:18:33,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=cq
+2025-11-20 06:15:46,http://bxtv.3a.ink/migu.php?id=cctv2
 
 📺央视频道,#genre#
-CCTV-1,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=cq
-CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086
-CCTV-2,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv2&q=gq
 CCTV-2,http://bxtv.3a.ink/migu.php?id=cctv2
 CCTV-3,http://bxtv.3a.ink/migu.php?id=cctv3
-CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4&q=gq
 
 自定义频道分类,#genre#
 自定义频道名称4,https://xxx.m3u8
