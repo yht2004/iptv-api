@@ -1,9 +1,8 @@
 🕘️更新时间,#genre#
-2025-11-25 18:20:40,http://61.184.46.85:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+2025-11-26 06:16:29,http://ygbh.site/php/bfgd.php?id=484
 
 📺央视频道,#genre#
-CCTV-1,http://61.184.46.85:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-1,http://ygbh.site/php/bfgd.php?id=201
+CCTV-1,http://ygbh.site/php/bfgd.php?id=484
 CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140
 
 自定义频道分类,#genre#
