@@ -1,3 +1,7 @@
 Name: 自定义频道名称1, URL: https://xxx.m3u8, From: local, IPv_Type: ipv4, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-4, URL: http://183.220.107.138:4022/rtp/239.11.0.109:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 477 ms, Speed: 0.69 M/s, Resolution: 1920x1080
-Name: CCTV-4, URL: http://1.58.246.115:4000/rtp/229.58.190.131:5000, From: subscribe, IPv_Type: ipv4, Location: 中国-黑龙江-哈尔滨, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-4, URL: http://183.220.107.138:4022/rtp/239.11.0.109:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 414 ms, Speed: 0.78 M/s, Resolution: 1920x1080
+Name: CCTV-2, URL: http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-河北-廊坊, ISP: 电信, Date: None, Delay: 10042 ms, Speed: 0.29 M/s, Resolution: None
+Name: CCTV-5, URL: http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-河北-廊坊, ISP: 电信, Date: None, Delay: 10830 ms, Speed: 0.54 M/s, Resolution: None
+Name: CCTV-4, URL: http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226470/.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-河北-廊坊, ISP: 电信, Date: None, Delay: 10103 ms, Speed: 0.33 M/s, Resolution: None
+Name: CCTV-3, URL: http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-河北-廊坊, ISP: 电信, Date: None, Delay: 10478 ms, Speed: 0.47 M/s, Resolution: None
+Name: CCTV-1, URL: http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226432/.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-河北-廊坊, ISP: 电信, Date: None, Delay: 10753 ms, Speed: 0.29 M/s, Resolution: None
