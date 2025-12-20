@@ -1,8 +1,9 @@
 🕘️更新时间,#genre#
-2025-12-20 06:16:52,http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
+2025-12-20 18:16:17,http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
 
 📺央视频道,#genre#
 CCTV-3,http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
+CCTV-5,http://yp.qqqtv.top/1/api.php?id=CCTV-5%2BHD&auth=666858
 
 自定义频道分类,#genre#
 自定义频道名称4,https://xxx.m3u8
