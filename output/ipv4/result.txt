@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-21 18:16:52,http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
+2025-12-22 06:15:53,http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
 
 📺央视频道,#genre#
 CCTV-3,http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
