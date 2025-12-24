@@ -1,14 +1,9 @@
 🕘️更新时间,#genre#
-2025-12-24 18:18:53,http://play-hsbj.vzan.com/978354/446938712125478466/live.m3u8
+2025-12-25 06:16:45,http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
 
 📺央视频道,#genre#
-CCTV-1,http://play-hsbj.vzan.com/978354/446938712125478466/live.m3u8
-CCTV-1,http://175.8.28.207:9999/tsfile/live/0001_1.m3u8
-CCTV-2,http://175.8.28.207:9999/tsfile/live/0002_1.m3u8
 CCTV-3,http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
-CCTV-3,http://175.8.28.207:9999/tsfile/live/0003_1.m3u8
-CCTV-4,http://175.8.28.207:9999/tsfile/live/0004_1.m3u8
-CCTV-5,http://175.8.28.207:9999/tsfile/live/0005_1.m3u8
+CCTV-4,http://yp.qqqtv.top/1/api.php?id=CCTV-4HD&auth=666858
 
 自定义频道分类,#genre#
 自定义频道名称4,https://xxx.m3u8
