@@ -1,11 +1,8 @@
 🕘️更新时间,#genre#
-2026-01-03 06:17:21,http://sun135790.x3322.net:9901/tsfile/live/16009_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-01-03 18:17:37,http://btjg.net:809/hls/4/index.m3u8
 
 📺央视频道,#genre#
-CCTV-2,http://sun135790.x3322.net:9901/tsfile/live/16009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-3,http://sun135790.x3322.net:9901/tsfile/live/16010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-4,http://sun135790.x3322.net:9901/tsfile/live/16011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5,http://sun135790.x3322.net:9901/tsfile/live/16025_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4,http://btjg.net:809/hls/4/index.m3u8
 
 自定义频道分类,#genre#
 自定义频道名称4,https://xxx.m3u8
