@@ -1,7 +1,20 @@
 🕘️更新时间,#genre#
-2026-01-08 06:17:00,https://xxx.m3u8
+2026-01-08 18:21:34,http://38.75.136.137:98/gslb/dsdqca/cctv1hd.m3u8?auth=test20251009
 
 📺央视频道,#genre#
+CCTV-1,http://38.75.136.137:98/gslb/dsdqca/cctv1hd.m3u8?auth=test20251009
+CCTV-1,http://yp.qqqtv.top/1/api.php?id=CCTV-1HD&auth=666858
+CCTV-3,http://38.75.136.137:98/gslb/dsdqca/cctv3hd.m3u8?auth=test20251009
+CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
+CCTV-5,http://23.237.228.134/live5/CCTV5.m3u8
+CCTV-5,http://keke.kandiantv.cn/migu720p.php?id=641886683
+CCTV-5,http://btjg.net:809/hls/5/index.m3u8
+CCTV-5,http://117.36.76.86:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://183.7.172.224:8888/hls/21/index.m3u8
+CCTV-5,http://shuangyashan.coccc.online:65000/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://gfr.x3322.net:9901/tsfile/live/1070_1.m3u8
+CCTV-5,http://222.169.85.8:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0'
+CCTV-5,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNS9pbmRleC5tM3U4
 
 自定义频道分类,#genre#
 自定义频道名称4,https://xxx.m3u8
