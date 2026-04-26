@@ -1,10 +1,15 @@
 🕘️更新时间,#genre#
-2026-04-26 06:32:10,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
+2026-04-26 18:41:57,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 
 📺央视频道,#genre#
 CCTV-1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
+CCTV-1,rtmp://39.108.129.193:1935/cctv1/1sao
 CCTV-2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
+CCTV-2,rtmp://39.108.129.193:1935/cv2/mx6o_cv2
+CCTV-3,rtmp://39.108.129.193:1935/cv3/yxz4_cv3
 CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
+CCTV-4,rtmp://39.108.129.193:1935/cv4/3wqo_cv4
+CCTV-5,rtmp://39.108.129.193:1935/cv5/6mio_cv5
 
 自定义频道分类,#genre#
 自定义频道名称4,https://xxx.m3u8
