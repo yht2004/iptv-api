@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260504225328 +0800">
+<tv date="20260505111419 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -3411,14 +3411,77 @@
 	<programme channel="CCTV-4" start="20260506235500 +0800" stop="20260507000000 +0800">
 		<title lang="zh">风雨送春归39/40</title>
 	</programme>
-	<programme channel="CCTV-4" start="20260507000000 +0800" stop="20260507004100 +0800">
-		<title lang="zh">风雨送春归(39)</title>
+	<programme channel="CCTV-4" start="20260507000000 +0800" stop="20260507003000 +0800">
+		<title lang="zh">海峡两岸</title>
 	</programme>
-	<programme channel="CCTV-4" start="20260507004100 +0800" stop="20260507012700 +0800">
-		<title lang="zh">风雨送春归(40)</title>
+	<programme channel="CCTV-4" start="20260507003000 +0800" stop="20260507011500 +0800">
+		<title lang="zh">远方的家</title>
 	</programme>
-	<programme channel="CCTV-4" start="20260507012700 +0800" stop="20260507015500 +0800">
+	<programme channel="CCTV-4" start="20260507011500 +0800" stop="20260507014500 +0800">
 		<title lang="zh">中国文艺</title>
+	</programme>
+	<programme channel="CCTV-4" start="20260507014500 +0800" stop="20260507022000 +0800">
+		<title lang="zh">探索发现</title>
+	</programme>
+	<programme channel="CCTV-4" start="20260507022000 +0800" stop="20260507022300 +0800">
+		<title lang="zh">&lt;记住乡愁&gt;片段展播(5)</title>
+	</programme>
+	<programme channel="CCTV-4" start="20260507022300 +0800" stop="20260507022800 +0800">
+		<title lang="zh">&lt;记住乡愁&gt;片段展播(7)</title>
+	</programme>
+	<programme channel="CCTV-4" start="20260507022800 +0800" stop="20260507031400 +0800">
+		<title lang="zh">奋进的旋律(3)</title>
+	</programme>
+	<programme channel="CCTV-4" start="20260507031400 +0800" stop="20260507040000 +0800">
+		<title lang="zh">奋进的旋律(4)</title>
+	</programme>
+	<programme channel="CCTV-4" start="20260507040000 +0800" stop="20260507043000 +0800">
+		<title lang="zh">中国新闻</title>
+	</programme>
+	<programme channel="CCTV-4" start="20260507043000 +0800" stop="20260507050000 +0800">
+		<title lang="zh">今日关注</title>
+	</programme>
+	<programme channel="CCTV-4" start="20260507050000 +0800" stop="20260507053000 +0800">
+		<title lang="zh">中国文艺</title>
+	</programme>
+	<programme channel="CCTV-4" start="20260507053000 +0800" stop="20260507060000 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="CCTV-4" start="20260507060000 +0800" stop="20260507063000 +0800">
+		<title lang="zh">海峡两岸</title>
+	</programme>
+	<programme channel="CCTV-4" start="20260507063000 +0800" stop="20260507070000 +0800">
+		<title lang="zh">走遍中国</title>
+	</programme>
+	<programme channel="CCTV-4" start="20260507070000 +0800" stop="20260507073000 +0800">
+		<title lang="zh">中国新闻</title>
+	</programme>
+	<programme channel="CCTV-4" start="20260507073000 +0800" stop="20260507080000 +0800">
+		<title lang="zh">今日关注</title>
+	</programme>
+	<programme channel="CCTV-4" start="20260507080000 +0800" stop="20260507090000 +0800">
+		<title lang="zh">今日环球</title>
+	</programme>
+	<programme channel="CCTV-4" start="20260507090000 +0800" stop="20260507094600 +0800">
+		<title lang="zh">依依向北风(38)</title>
+	</programme>
+	<programme channel="CCTV-4" start="20260507094600 +0800" stop="20260507103200 +0800">
+		<title lang="zh">枫桥警事(1)</title>
+	</programme>
+	<programme channel="CCTV-4" start="20260507103200 +0800" stop="20260507110200 +0800">
+		<title lang="zh">国家记忆</title>
+	</programme>
+	<programme channel="CCTV-4" start="20260507110200 +0800" stop="20260507114700 +0800">
+		<title lang="zh">远方的家</title>
+	</programme>
+	<programme channel="CCTV-4" start="20260507114700 +0800" stop="20260507120000 +0800">
+		<title lang="zh">&lt;记住乡愁&gt;片段展播(13)</title>
+	</programme>
+	<programme channel="CCTV-4" start="20260507120000 +0800" stop="20260507131500 +0800">
+		<title lang="zh">中国新闻</title>
+	</programme>
+	<programme channel="CCTV-4" start="20260507131500 +0800" stop="20260507134500 +0800">
+		<title lang="zh">海峡两岸</title>
 	</programme>
 	<channel id="CCTV-5">
 		<display-name lang="zh">CCTV-5</display-name>
