@@ -1,10 +1,8 @@
 🕘️更新时间,#genre#
-2026-05-10 18:58:22,http://198.204.228.26/live/cctv1hd.m3u8
+2026-05-11 06:41:32,http://198.204.228.26/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://198.204.228.26/live/cctv1hd.m3u8
-CCTV-1,http://192.151.150.154/live/cctv1hd.m3u8
-CCTV-4,http://111.170.156.74:3344/央视/cctv.php?id=cctv4k
 
 自定义频道分类,#genre#
 自定义频道名称4,https://xxx.m3u8
