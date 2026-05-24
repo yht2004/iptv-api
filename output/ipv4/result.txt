@@ -1,13 +1,33 @@
 🕘️更新时间,#genre#
-2026-05-24 06:48:08,https://live.264788.xyz/channel/cctv1?streamid=ae1fc95449a7d4a13c53490cbcae614f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+2026-05-24 19:13:02,https://live.264788.xyz/channel/cctv1?streamid=ae1fc95449a7d4a13c53490cbcae614f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 📺央视频道,#genre#
 CCTV-1,https://live.264788.xyz/channel/cctv1?streamid=ae1fc95449a7d4a13c53490cbcae614f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-CCTV-1,http://69.30.245.50/live/cctv1.m3u8
 CCTV-1,http://198.204.228.26/live/cctv1hd.m3u8
-CCTV-3,https://live.264788.xyz/channel/cctv3?streamid=dae69a23c264c77eefa2354094bbf46b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-CCTV-5,https://live.264788.xyz/channel/cctv5?streamid=1806e73ac17e1ad9a7f4c7b2dc9abea6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV-1,http://111.228.4.117:6789/migu720p.php?id=608807420
+CCTV-1,http://69.30.245.50/live/cctv1.m3u8
+CCTV-1,http://58.56.162.102:4466/newlive/live/hls/1/live.m3u8
+CCTV-2,https://live.264788.xyz/channel/cctv2?streamid=9d3681a7c74fcc88af7a6e9c998f37a0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV-2,http://111.228.4.117:6789/migu720p.php?id=631780532
+CCTV-2,http://69.30.245.50/live/cctv2.m3u8
+CCTV-2,http://222.223.41.27:8888/hls/2/index.m3u8
+CCTV-2,http://39.165.39.49:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://116.128.243.121:9905/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3,https://live.264788.xyz/channel/cctv3?streamid=2732ee7572f54fe1c1e6af80a49a6786&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV-3,http://69.30.245.50/live/cctv3.m3u8
+CCTV-3,http://111.228.4.117:6789/migu720p.php?id=624878271
+CCTV-3,http://222.223.41.27:8888/hls/3/index.m3u8
+CCTV-3,http://116.128.243.121:9905/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4k
+CCTV-4,http://111.228.4.117:6789/migu720p.php?id=631780421
+CCTV-4,http://69.30.245.50/live/cctv4.m3u8
+CCTV-5,https://live.264788.xyz/channel/cctv5?streamid=504fa453c7bb756531e1811917356ce7&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-5,http://198.204.228.26/live/cctv5hd.m3u8
+CCTV-5,http://69.30.245.50/live/cctv5.m3u8
+CCTV-5,http://111.228.4.117:6789/migu720p.php?id=641886683
+CCTV-5,http://39.165.39.49:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://116.128.243.121:9905/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://58.56.162.102:4466/newlive/live/hls/5/live.m3u8
 
 自定义频道分类,#genre#
 自定义频道名称4,https://xxx.m3u8
