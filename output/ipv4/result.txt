@@ -1,14 +1,18 @@
 🕘️更新时间,#genre#
-2026-05-26 06:56:47,https://live.264788.xyz/channel/cctv1?streamid=ae1fc95449a7d4a13c53490cbcae614f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+2026-05-27 07:05:01,https://live.264788.xyz/channel/cctv1?streamid=ae1fc95449a7d4a13c53490cbcae614f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 📺央视频道,#genre#
 CCTV-1,https://live.264788.xyz/channel/cctv1?streamid=ae1fc95449a7d4a13c53490cbcae614f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-1,http://198.204.228.26/live/cctv1hd.m3u8
-CCTV-1,http://120.202.94.181:9446/tsfile/live/0001_1.m3u8?key=txiptv
+CCTV-1,http://39.165.39.49:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-1,http://116.128.243.121:9905/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2,https://live.264788.xyz/channel/cctv2?streamid=9d3681a7c74fcc88af7a6e9c998f37a0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV-3,http://60.10.139.113:8801/hls/3/index.m3u8
+CCTV-3,http://58.56.162.102:4466/newlive/live/hls/3/live.m3u8
+CCTV-3,http://120.202.94.181:9446/tsfile/live/0003_1.m3u8?key=txiptv
+CCTV-4,http://118.193.115.2:9901/tsfile/live/0004_1.m3u8?key=txiptv
 CCTV-5,https://live.264788.xyz/channel/cctv5?streamid=188da934b8ba25977f0ac6a59478a16b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-5,http://198.204.228.26/live/cctv5hd.m3u8
-CCTV-5,http://120.202.94.181:9446/tsfile/live/0005_1.m3u8?key=txiptv
 
 自定义频道分类,#genre#
 自定义频道名称4,https://xxx.m3u8
