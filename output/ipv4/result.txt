@@ -1,11 +1,13 @@
 🕘️更新时间,#genre#
-2026-05-28 07:13:32,https://live.264788.xyz/channel/cctv1?streamid=92aee428179a0ecc7495490888c0cba9&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+2026-05-28 21:44:19,http://198.204.228.26/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
-CCTV-1,https://live.264788.xyz/channel/cctv1?streamid=92aee428179a0ecc7495490888c0cba9&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-1,http://198.204.228.26/live/cctv1hd.m3u8
+CCTV-1,https://live.264788.xyz/channel/cctv1?streamid=92aee428179a0ecc7495490888c0cba9&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-1,http://198.204.240.250:82/live/cctv1.m3u8
+CCTV-3,http://223.75.149.129:9906/tsfile/live/0003_1.m3u8?key=txiptv
 CCTV-5,http://198.204.228.26/live/cctv5hd.m3u8
+CCTV-5,http://60.10.139.113:8801/hls/5/index.m3u8
 
 自定义频道分类,#genre#
 自定义频道名称4,https://xxx.m3u8
