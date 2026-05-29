@@ -1,10 +1,14 @@
 🕘️更新时间,#genre#
-2026-05-29 07:11:32,http://198.204.240.250:82/live/cctv1.m3u8
+2026-05-29 20:46:11,http://198.204.240.250:82/live/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://198.204.240.250:82/live/cctv1.m3u8
 CCTV-1,http://198.204.228.26/live/cctv1hd.m3u8
+CCTV-2,http://182.61.15.84:80/631780532
+CCTV-3,http://182.61.15.84:80/624878271
+CCTV-4,http://182.61.15.84:80/631780421
 CCTV-5,http://198.204.228.26/live/cctv5hd.m3u8
+CCTV-5,http://221.13.235.54:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 
 自定义频道分类,#genre#
 自定义频道名称4,https://xxx.m3u8
