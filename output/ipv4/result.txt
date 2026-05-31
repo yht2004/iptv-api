@@ -1,11 +1,8 @@
 🕘️更新时间,#genre#
-2026-05-31 19:39:57,https://live.264788.xyz/channel/cctv1?streamid=107a756f519973a7e95798c05737a47c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+2026-06-01 06:56:50,http://198.204.228.26/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
-CCTV-1,https://live.264788.xyz/channel/cctv1?streamid=107a756f519973a7e95798c05737a47c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-1,http://198.204.228.26/live/cctv1hd.m3u8
-CCTV-1,http://198.204.240.250:82/live/cctv1.m3u8
-CCTV-4,http://192.151.150.154/live/cctv4k.m3u8
 CCTV-4,http://www.negative.top:50000/rtp/233.50.200.101:5140
 CCTV-5,http://198.204.228.26/live/cctv5hd.m3u8
 
