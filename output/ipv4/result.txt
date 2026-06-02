@@ -1,9 +1,14 @@
 🕘️更新时间,#genre#
-2026-06-02 07:23:51,http://198.204.228.26/live/cctv1hd.m3u8
+2026-06-02 21:57:26,http://198.204.228.26/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://198.204.228.26/live/cctv1hd.m3u8
+CCTV-2,http://fuxin.yunjifei.top:999/tsfile/live/0002_1.m3u8?key=txiptv
+CCTV-2,http://221.193.168.7:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3,http://fuxin.yunjifei.top:999/tsfile/live/0003_1.m3u8?key=txiptv
+CCTV-4,http://fuxin.yunjifei.top:999/tsfile/live/0004_1.m3u8?key=txiptv
 CCTV-5,http://198.204.228.26/live/cctv5hd.m3u8
+CCTV-5,http://fuxin.yunjifei.top:999/tsfile/live/0005_1.m3u8?key=txiptv
 
 自定义频道分类,#genre#
 自定义频道名称4,https://xxx.m3u8
