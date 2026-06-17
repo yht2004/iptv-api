@@ -1,4 +1,3 @@
 Name: 自定义频道名称1, URL: https://xxx.m3u8, From: local, IPv_Type: ipv4, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-1, URL: http://198.204.228.26/live/cctv1hd.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 386 ms, Speed: 2.37 M/s, Resolution: 1920x1080
-Name: CCTV-3, URL: http://173.208.212.130:8181/1080p/cctv3.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: WholeSale互联网股份有限公司, Date: None, Delay: 1035 ms, Speed: 2.38 M/s, Resolution: 1920x1080
-Name: CCTV-1, URL: http://223.75.149.129:9906/tsfile/live/0001_1.m3u8?key=txiptv, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北, ISP: 移动, Date: None, Delay: 10196 ms, Speed: 0.05 M/s, Resolution: None
+Name: CCTV-1, URL: http://198.204.228.26/live/cctv1hd.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 352 ms, Speed: 11.32 M/s, Resolution: 1920x1080
+Name: CCTV-3, URL: http://173.208.212.130:8181/1080p/cctv3.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: WholeSale互联网股份有限公司, Date: None, Delay: 378 ms, Speed: 5.29 M/s, Resolution: 1920x1080
