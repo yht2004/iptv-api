@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-07-10 07:07:37,http://182.37.41.46:8154/tsfile/live/0004_1.m3u8?key=txiptv
+2026-07-10 20:22:51,https://xxx.m3u8
 
 📺央视频道,#genre#
-CCTV-4,http://182.37.41.46:8154/tsfile/live/0004_1.m3u8?key=txiptv
 
 自定义频道分类,#genre#
 自定义频道名称4,https://xxx.m3u8
