@@ -1,5 +1,3 @@
 Name: 自定义频道名称1, URL: https://xxx.m3u8, From: local, IPv_Type: ipv4, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-5, URL: http://107.150.60.122/live/cctv5p.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: NOCIX数据中心, Date: None, Delay: 733 ms, Speed: 6.12 M/s, Resolution: 1920x1080
-Name: CCTV-4, URL: http://14.153.176.183:1234/608807419, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-1, URL: http://116.52.173.34:1234/608807420, From: subscribe, IPv_Type: ipv4, Location: 中国-云南-昆明, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-3, URL: http://182.37.41.46:8154/tsfile/live/0003_1.m3u8?key=txiptv, From: subscribe, IPv_Type: ipv4, Location: 中国-山东-日照, ISP: 电信, Date: None, Delay: 10199 ms, Speed: 0.05 M/s, Resolution: None
+Name: CCTV-4, URL: http://14.153.176.183:1234/608807416, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-5, URL: http://107.150.60.122/live/cctv5p.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: NOCIX数据中心, Date: None, Delay: 10587 ms, Speed: 0.32 M/s, Resolution: 1920x1080
