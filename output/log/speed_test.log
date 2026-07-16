@@ -1,3 +1,2 @@
 Name: 自定义频道名称1, URL: https://xxx.m3u8, From: local, IPv_Type: ipv4, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-4, URL: http://110.154.192.66:7788/608807416, From: subscribe, IPv_Type: ipv4, Location: 中国-新疆-阿克苏地区, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-1, URL: http://110.154.192.66:7788/608807420, From: subscribe, IPv_Type: ipv4, Location: 中国-新疆-阿克苏地区, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-4, URL: http://110.154.192.66:7788/608807419, From: subscribe, IPv_Type: ipv4, Location: 中国-新疆-阿克苏地区, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
