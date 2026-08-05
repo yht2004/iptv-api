@@ -1,10 +1,3 @@
 Name: 自定义频道名称1, URL: https://xxx.m3u8, From: local, IPv_Type: ipv4, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-3, URL: http://bztv.tvbus.cc:8081/cdnlive/cctv3.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-科罗拉多州, ISP: NTT(美国)通信公司, Date: None, Delay: 10095 ms, Speed: 0.32 M/s, Resolution: 1920x1080
-Name: CCTV-5, URL: http://27.12.12.100:1234/641886683, From: subscribe, IPv_Type: ipv4, Location: 中国-重庆-重庆, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-4, URL: http://27.12.12.100:1234/631780421, From: subscribe, IPv_Type: ipv4, Location: 中国-重庆-重庆, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-2, URL: http://27.12.12.100:1234/631780532, From: subscribe, IPv_Type: ipv4, Location: 中国-重庆-重庆, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-1, URL: http://27.12.12.100:1234/608807420, From: subscribe, IPv_Type: ipv4, Location: 中国-重庆-重庆, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-3, URL: http://27.12.12.100:1234/624878271, From: subscribe, IPv_Type: ipv4, Location: 中国-重庆-重庆, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-5, URL: http://115.171.216.40:4000/rtp/225.1.8.89:8000, From: subscribe, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 电信, Date: None, Delay: 480 ms, Speed: 0.58 M/s, Resolution: 1920x1080
-Name: CCTV-5, URL: http://39.77.159.145:4002/rtp/239.253.254.192:8000, From: subscribe, IPv_Type: ipv4, Location: 中国-山东-青岛, ISP: 联通, Date: None, Delay: 417 ms, Speed: 0.24 M/s, Resolution: 1920x1080
-Name: CCTV-1, URL: http://223.247.25.247:1234/608807420, From: subscribe, IPv_Type: ipv4, Location: 中国-安徽-池州, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-5, URL: http://115.171.216.40:4000/rtp/225.1.8.89:8000, From: subscribe, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 电信, Date: None, Delay: 469 ms, Speed: 0.03 M/s, Resolution: 1920x1080
+Name: CCTV-5, URL: http://39.77.159.145:4002/rtp/239.253.254.192:8000, From: subscribe, IPv_Type: ipv4, Location: 中国-山东-青岛, ISP: 联通, Date: None, Delay: 420 ms, Speed: 0.56 M/s, Resolution: 1920x1080
