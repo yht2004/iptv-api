@@ -1,10 +1,7 @@
 🕘️更新时间,#genre#
-2026-08-17 18:26:28,http://221.226.51.220:50081/newlive/live/hls/3/live.m3u8
+2026-08-18 06:18:51,http://115.171.216.40:4000/rtp/225.1.8.89:8000
 
 📺央视频道,#genre#
-CCTV-3,http://221.226.51.220:50081/newlive/live/hls/3/live.m3u8
-CCTV-3,http://112.27.145.212:9902/tsfile/live/1502_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-3,http://118.122.144.115:8888/newlive/live/hls/3/live.m3u8
 CCTV-5,http://115.171.216.40:4000/rtp/225.1.8.89:8000
 
 自定义频道分类,#genre#
