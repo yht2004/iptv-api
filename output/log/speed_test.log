@@ -1,2 +1,6 @@
 Name: 自定义频道名称1, URL: https://xxx.m3u8, From: local, IPv_Type: ipv4, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-5, URL: http://115.171.216.40:4000/rtp/225.1.8.89:8000, From: subscribe, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 电信, Date: None, Delay: 415 ms, Speed: 0.88 M/s, Resolution: 1920x1080
+Name: CCTV-5, URL: http://115.171.216.40:4000/rtp/225.1.8.89:8000, From: subscribe, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 电信, Date: None, Delay: 1255 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-4, URL: http://111.76.19.115:1234/608807419, From: subscribe, IPv_Type: ipv4, Location: 中国-江西-南昌, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-3, URL: http://118.122.144.115:8888/newlive/live/hls/3/live.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-四川-绵阳, ISP: 电信, Date: None, Delay: 10050 ms, Speed: 0.01 M/s, Resolution: None
+Name: CCTV-3, URL: http://112.27.145.212:9902/tsfile/live/1502_1.m3u8?key=txiptv&playlive=1&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10812 ms, Speed: 0.05 M/s, Resolution: None
+Name: CCTV-3, URL: http://221.226.51.220:50081/newlive/live/hls/3/live.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-江苏-南京, ISP: 电信, Date: None, Delay: 10576 ms, Speed: 0.06 M/s, Resolution: None
