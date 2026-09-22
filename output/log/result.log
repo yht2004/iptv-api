@@ -238,5 +238,4 @@ Name: CCTV-5, URL: http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/cctv5hd265
 Name: CCTV-5, URL: https://t.freetv.fun/live/cctv5-5.php, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5, URL: https://live.666666.zip/stream/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5, URL: http://fn.gcl.de5.net:5908/gsh950428/641886683, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-5, URL: http://153.0.171.163:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-海南-海口, ISP: 联通, Date: None, Delay: 10349 ms, Speed: 0.33 M/s, Resolution: None
 Name: 自定义频道名称4, URL: https://xxx.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
