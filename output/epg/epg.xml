@@ -1,8 +1,569 @@
 <?xml version="1.0" ?>
-<tv date="20261109012227 +0800">
+<tv date="20261109202132 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
+	<programme channel="CCTV-1" start="20261104000300 +0800" stop="20261104002500 +0800">
+		<title lang="zh">人口-2026-44</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261104002500 +0800" stop="20261104005500 +0800">
+		<title lang="zh">今日说法-2026-199</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261104005500 +0800" stop="20261104012500 +0800">
+		<title lang="zh">晚间新闻</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261104012500 +0800" stop="20261104015700 +0800">
+		<title lang="zh">自然中国-探秘长白山-火山密码</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261104015700 +0800" stop="20261104024000 +0800">
+		<title lang="zh">生活早参考-特别节目(生活圈)2026-302</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261104024000 +0800" stop="20261104025700 +0800">
+		<title lang="zh">中华古树-阳山唐桂(4K)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261104025700 +0800" stop="20261104042000 +0800">
+		<title lang="zh">宗师列传·大宋词人传-辛弃疾下</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261104042000 +0800" stop="20261104042200 +0800">
+		<title lang="zh">泱泱中华-历史文化街区1</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261104042200 +0800" stop="20261104045200 +0800">
+		<title lang="zh">今日说法-2026-199</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261104045200 +0800" stop="20261104052700 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261104052700 +0800" stop="20261104060000 +0800">
+		<title lang="zh">农耕探文明-2025-3</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261104060000 +0800" stop="20261104083600 +0800">
+		<title lang="zh">朝闻天下</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261104083600 +0800" stop="20261104092100 +0800">
+		<title lang="zh">生活早参考-特别节目(生活圈)2026-303</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261104092100 +0800" stop="20261104101200 +0800">
+		<title lang="zh">江海潮生7/30</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261104101200 +0800" stop="20261104110100 +0800">
+		<title lang="zh">江海潮生8/30</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261104110100 +0800" stop="20261104115300 +0800">
+		<title lang="zh">江海潮生9/30</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261104115300 +0800" stop="20261104120000 +0800">
+		<title lang="zh">秘境之眼-2026-273</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261104120000 +0800" stop="20261104123500 +0800">
+		<title lang="zh">新闻30分</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261104123500 +0800" stop="20261104130800 +0800">
+		<title lang="zh">今日说法-2026-200</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261104130800 +0800" stop="20261104135500 +0800">
+		<title lang="zh">太行谣13/24</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261104135500 +0800" stop="20261104144200 +0800">
+		<title lang="zh">太行谣14/24</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261104144200 +0800" stop="20261104152900 +0800">
+		<title lang="zh">太行谣15/24</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261104152900 +0800" stop="20261104161900 +0800">
+		<title lang="zh">太行谣16/24</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261104161900 +0800" stop="20261104170500 +0800">
+		<title lang="zh">太行谣17/24</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261104170500 +0800" stop="20261104173700 +0800">
+		<title lang="zh">第一动画乐园-2026-255</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261104173700 +0800" stop="20261104182000 +0800">
+		<title lang="zh">生活早参考-特别节目(生活圈)2026-303</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261104182000 +0800" stop="20261104185000 +0800">
+		<title lang="zh">自然中国-探秘长白山-虎影寻踪</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261104185000 +0800" stop="20261104190000 +0800">
+		<title lang="zh">秘境之眼-2026-301</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261104190000 +0800" stop="20261104193100 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261104193100 +0800" stop="20261104193900 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261104193900 +0800" stop="20261104200000 +0800">
+		<title lang="zh">焦点访谈</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261104200000 +0800" stop="20261104200400 +0800">
+		<title lang="zh">前情提要-伟大的长征-44/60</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261104200400 +0800" stop="20261104205600 +0800">
+		<title lang="zh">伟大的长征44/60</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261104205600 +0800" stop="20261104205900 +0800">
+		<title lang="zh">前情提要-伟大的长征-45/60</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261104205900 +0800" stop="20261104220000 +0800">
+		<title lang="zh">伟大的长征45/60</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261104220000 +0800" stop="20261104223500 +0800">
+		<title lang="zh">晚间新闻</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261104223500 +0800" stop="20261105000000 +0800">
+		<title lang="zh">宗师列传·大宋词人传-李清照</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261105000600 +0800" stop="20261105003700 +0800">
+		<title lang="zh">今日说法-2026-200</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261105003700 +0800" stop="20261105012100 +0800">
+		<title lang="zh">生活早参考-特别节目(生活圈)2026-303</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261105012100 +0800" stop="20261105015300 +0800">
+		<title lang="zh">晚间新闻</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261105015300 +0800" stop="20261105020300 +0800">
+		<title lang="zh">中华古树-明清石榴园古树群(4K)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261105020300 +0800" stop="20261105023400 +0800">
+		<title lang="zh">自然中国-探秘长白山-奇妙之水</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261105023400 +0800" stop="20261105024600 +0800">
+		<title lang="zh">中华古树-渑池周柏(4K)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261105024600 +0800" stop="20261105025300 +0800">
+		<title lang="zh">非遗里的中国-MV</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261105025300 +0800" stop="20261105042000 +0800">
+		<title lang="zh">宗师列传·大宋词人传-李清照</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261105042000 +0800" stop="20261105042200 +0800">
+		<title lang="zh">泱泱中华-历史文化街区1</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261105042200 +0800" stop="20261105045200 +0800">
+		<title lang="zh">今日说法-2026-200</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261105045200 +0800" stop="20261105052700 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261105052700 +0800" stop="20261105060000 +0800">
+		<title lang="zh">农耕探文明-2025-1</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261105060000 +0800" stop="20261105083600 +0800">
+		<title lang="zh">朝闻天下</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261105083600 +0800" stop="20261105092200 +0800">
+		<title lang="zh">生活早参考-特别节目(生活圈)2026-304</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261105092200 +0800" stop="20261105101300 +0800">
+		<title lang="zh">江海潮生10/30</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261105101300 +0800" stop="20261105110200 +0800">
+		<title lang="zh">江海潮生11/30</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261105110200 +0800" stop="20261105114800 +0800">
+		<title lang="zh">江海潮生12/30</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261105114800 +0800" stop="20261105115300 +0800">
+		<title lang="zh">非遗里的中国-MV</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261105115300 +0800" stop="20261105120000 +0800">
+		<title lang="zh">秘境之眼-2026-274</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261105120000 +0800" stop="20261105123500 +0800">
+		<title lang="zh">新闻30分</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261105123500 +0800" stop="20261105130700 +0800">
+		<title lang="zh">今日说法-2026-201</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261105130700 +0800" stop="20261105135400 +0800">
+		<title lang="zh">太行谣18/24</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261105135400 +0800" stop="20261105144200 +0800">
+		<title lang="zh">太行谣19/24</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261105144200 +0800" stop="20261105153000 +0800">
+		<title lang="zh">太行谣20/24</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261105153000 +0800" stop="20261105161900 +0800">
+		<title lang="zh">太行谣21/24</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261105161900 +0800" stop="20261105170500 +0800">
+		<title lang="zh">太行谣22/24</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261105170500 +0800" stop="20261105173700 +0800">
+		<title lang="zh">第一动画乐园-2026-256</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261105173700 +0800" stop="20261105182000 +0800">
+		<title lang="zh">生活早参考-特别节目(生活圈)2026-304</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261105182000 +0800" stop="20261105185000 +0800">
+		<title lang="zh">自然中国-探秘长白山-垂直秘境</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261105185000 +0800" stop="20261105190000 +0800">
+		<title lang="zh">秘境之眼-2026-302</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261105190000 +0800" stop="20261105193100 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261105193100 +0800" stop="20261105193900 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261105193900 +0800" stop="20261105200100 +0800">
+		<title lang="zh">焦点访谈</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261105200100 +0800" stop="20261105200600 +0800">
+		<title lang="zh">前情提要-伟大的长征-46/60</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261105200600 +0800" stop="20261105205800 +0800">
+		<title lang="zh">伟大的长征46/60</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261105205800 +0800" stop="20261105210100 +0800">
+		<title lang="zh">前情提要-伟大的长征-47/60</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261105210100 +0800" stop="20261105220000 +0800">
+		<title lang="zh">伟大的长征47/60</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261105220000 +0800" stop="20261105223600 +0800">
+		<title lang="zh">晚间新闻</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261105223600 +0800" stop="20261106001500 +0800">
+		<title lang="zh">宗师列传·大宋词人传-晏殊</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261106001500 +0800" stop="20261106004600 +0800">
+		<title lang="zh">今日说法-2026-201</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261106004600 +0800" stop="20261106013000 +0800">
+		<title lang="zh">生活早参考-特别节目(生活圈)2026-304</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261106013000 +0800" stop="20261106020200 +0800">
+		<title lang="zh">晚间新闻</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261106020200 +0800" stop="20261106021200 +0800">
+		<title lang="zh">中华古树-永嘉古柏(4K)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261106021200 +0800" stop="20261106024500 +0800">
+		<title lang="zh">自然中国-探秘长白山-虎影寻踪</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261106024500 +0800" stop="20261106042000 +0800">
+		<title lang="zh">宗师列传·大宋词人传-晏殊</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261106042000 +0800" stop="20261106042200 +0800">
+		<title lang="zh">泱泱中华-历史文化街区1</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261106042200 +0800" stop="20261106045200 +0800">
+		<title lang="zh">今日说法-2026-201</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261106045200 +0800" stop="20261106052700 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261106052700 +0800" stop="20261106060000 +0800">
+		<title lang="zh">农耕探文明-2025-10</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261106060000 +0800" stop="20261106083600 +0800">
+		<title lang="zh">朝闻天下</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261106083600 +0800" stop="20261106092200 +0800">
+		<title lang="zh">生活早参考-特别节目(生活圈)2026-305</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261106092200 +0800" stop="20261106101200 +0800">
+		<title lang="zh">江海潮生13/30</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261106101200 +0800" stop="20261106110100 +0800">
+		<title lang="zh">江海潮生14/30</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261106110100 +0800" stop="20261106115300 +0800">
+		<title lang="zh">江海潮生15/30</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261106115300 +0800" stop="20261106120000 +0800">
+		<title lang="zh">秘境之眼-2026-275</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261106120000 +0800" stop="20261106123500 +0800">
+		<title lang="zh">新闻30分</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261106123500 +0800" stop="20261106130800 +0800">
+		<title lang="zh">今日说法-2026-202</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261106130800 +0800" stop="20261106135500 +0800">
+		<title lang="zh">太行谣23/24</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261106135500 +0800" stop="20261106144100 +0800">
+		<title lang="zh">太行谣24/24</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261106144100 +0800" stop="20261106152800 +0800">
+		<title lang="zh">小城良方1/29</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261106152800 +0800" stop="20261106161700 +0800">
+		<title lang="zh">小城良方2/29</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261106161700 +0800" stop="20261106170400 +0800">
+		<title lang="zh">小城良方3/29</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261106170400 +0800" stop="20261106173700 +0800">
+		<title lang="zh">第一动画乐园-2026-257</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261106173700 +0800" stop="20261106182000 +0800">
+		<title lang="zh">生活早参考-特别节目(生活圈)2026-305</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261106182000 +0800" stop="20261106185000 +0800">
+		<title lang="zh">自然中国-探秘长白山-山林共生</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261106185000 +0800" stop="20261106190000 +0800">
+		<title lang="zh">秘境之眼-2026-303</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261106190000 +0800" stop="20261106193100 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261106193100 +0800" stop="20261106193900 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261106193900 +0800" stop="20261106200000 +0800">
+		<title lang="zh">焦点访谈</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261106200000 +0800" stop="20261106200400 +0800">
+		<title lang="zh">前情提要-伟大的长征-48/60</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261106200400 +0800" stop="20261106205600 +0800">
+		<title lang="zh">伟大的长征48/60</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261106205600 +0800" stop="20261106210000 +0800">
+		<title lang="zh">前情提要-伟大的长征-49/60</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261106210000 +0800" stop="20261106215300 +0800">
+		<title lang="zh">伟大的长征49/60</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261106215300 +0800" stop="20261106220000 +0800">
+		<title lang="zh">非遗里的中国-MV</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261106220000 +0800" stop="20261106223500 +0800">
+		<title lang="zh">晚间新闻</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261106223500 +0800" stop="20261107000000 +0800">
+		<title lang="zh">宗师列传·大宋词人传-范仲淹</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261107000000 +0800" stop="20261107001400 +0800">
+		<title lang="zh">宗师列传·大宋词人传：范仲淹</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261107001400 +0800" stop="20261107004500 +0800">
+		<title lang="zh">今日说法</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261107004500 +0800" stop="20261107012900 +0800">
+		<title lang="zh">生活圈</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261107012900 +0800" stop="20261107020100 +0800">
+		<title lang="zh">晚间新闻</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261107020100 +0800" stop="20261107020500 +0800">
+		<title lang="zh">《三餐四季》宣传片</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261107020500 +0800" stop="20261107023600 +0800">
+		<title lang="zh">自然中国：探秘长白山-垂直秘境</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261107023600 +0800" stop="20261107041000 +0800">
+		<title lang="zh">宗师列传·大宋词人传：范仲淹</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261107041000 +0800" stop="20261107041200 +0800">
+		<title lang="zh">泱泱中华-历史文化街区(1)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261107041200 +0800" stop="20261107044200 +0800">
+		<title lang="zh">今日说法</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261107044200 +0800" stop="20261107052700 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261107052700 +0800" stop="20261107055900 +0800">
+		<title lang="zh">农耕探文明(5)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261107055900 +0800" stop="20261107060000 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261107060000 +0800" stop="20261107070000 +0800">
+		<title lang="zh">朝闻天下</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261107070000 +0800" stop="20261107070100 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261107070100 +0800" stop="20261107083600 +0800">
+		<title lang="zh">朝闻天下</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261107083600 +0800" stop="20261107092100 +0800">
+		<title lang="zh">生活圈</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261107092100 +0800" stop="20261107101200 +0800">
+		<title lang="zh">江海潮生(16)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261107101200 +0800" stop="20261107110100 +0800">
+		<title lang="zh">江海潮生(17)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261107110100 +0800" stop="20261107114700 +0800">
+		<title lang="zh">江海潮生(18)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261107114700 +0800" stop="20261107115300 +0800">
+		<title lang="zh">《非遗里的中国》MV</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261107115300 +0800" stop="20261107120000 +0800">
+		<title lang="zh">秘境之眼</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261107120000 +0800" stop="20261107123500 +0800">
+		<title lang="zh">新闻30分</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261107123500 +0800" stop="20261107140900 +0800">
+		<title lang="zh">非遗里的中国Ⅴ：青海德令哈篇</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261107123500 +0800" stop="20261107140900 +0800">
+		<title lang="zh">非遗里的中国Ⅴ：青海德令哈篇</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261107140900 +0800" stop="20261107145800 +0800">
+		<title lang="zh">小城良方(4)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261107145800 +0800" stop="20261107154800 +0800">
+		<title lang="zh">小城良方(5)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261107154800 +0800" stop="20261107163400 +0800">
+		<title lang="zh">小城良方(6)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261107163400 +0800" stop="20261107172300 +0800">
+		<title lang="zh">小城良方(7)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261107172300 +0800" stop="20261107181300 +0800">
+		<title lang="zh">小城良方(8)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261107181300 +0800" stop="20261107185000 +0800">
+		<title lang="zh">寻味山海：建平</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261107185000 +0800" stop="20261107190000 +0800">
+		<title lang="zh">秘境之眼</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261107190000 +0800" stop="20261107193100 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261107193100 +0800" stop="20261107193800 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261107193800 +0800" stop="20261107200500 +0800">
+		<title lang="zh">焦点访谈</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261107200500 +0800" stop="20261107214900 +0800">
+		<title lang="zh">专题节目</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261107214900 +0800" stop="20261107220000 +0800">
+		<title lang="zh">《三餐四季》宣传片</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261107220000 +0800" stop="20261107223700 +0800">
+		<title lang="zh">晚间新闻</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261107223700 +0800" stop="20261107232700 +0800">
+		<title lang="zh">开讲啦</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261107232700 +0800" stop="20261108010100 +0800">
+		<title lang="zh">宗师列传·大唐诗人传：白居易</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261108010100 +0800" stop="20261108014500 +0800">
+		<title lang="zh">生活圈</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261108014500 +0800" stop="20261108021500 +0800">
+		<title lang="zh">晚间新闻</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261108021500 +0800" stop="20261108024800 +0800">
+		<title lang="zh">自然中国：探秘长白山-山林共生</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261108024800 +0800" stop="20261108042000 +0800">
+		<title lang="zh">宗师列传·大唐诗人传：白居易</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261108042000 +0800" stop="20261108045200 +0800">
+		<title lang="zh">本草流芳：石斛</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261108045200 +0800" stop="20261108052700 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261108052700 +0800" stop="20261108055900 +0800">
+		<title lang="zh">农耕探文明(12)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261108055900 +0800" stop="20261108060000 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261108060000 +0800" stop="20261108070000 +0800">
+		<title lang="zh">朝闻天下</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261108070000 +0800" stop="20261108070100 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261108070100 +0800" stop="20261108083600 +0800">
+		<title lang="zh">朝闻天下</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261108083600 +0800" stop="20261108092100 +0800">
+		<title lang="zh">生活圈</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261108092100 +0800" stop="20261108101200 +0800">
+		<title lang="zh">江海潮生(19)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261108101200 +0800" stop="20261108110100 +0800">
+		<title lang="zh">江海潮生(20)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261108110100 +0800" stop="20261108114700 +0800">
+		<title lang="zh">江海潮生(21)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261108114700 +0800" stop="20261108115300 +0800">
+		<title lang="zh">《三餐四季》宣传片</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261108115300 +0800" stop="20261108120000 +0800">
+		<title lang="zh">秘境之眼</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261108120000 +0800" stop="20261108123300 +0800">
+		<title lang="zh">新闻30分</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261108123300 +0800" stop="20261108141400 +0800">
+		<title lang="zh">山水间的家Ⅴ(4)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261108123300 +0800" stop="20261108141400 +0800">
+		<title lang="zh">山水间的家Ⅴ(4)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261108141400 +0800" stop="20261108150100 +0800">
+		<title lang="zh">小城良方(9)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261108150100 +0800" stop="20261108154700 +0800">
+		<title lang="zh">小城良方(10)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261108154700 +0800" stop="20261108163500 +0800">
+		<title lang="zh">小城良方(11)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261108163500 +0800" stop="20261108172100 +0800">
+		<title lang="zh">小城良方(12)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261108172100 +0800" stop="20261108181000 +0800">
+		<title lang="zh">小城良方(13)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261108181000 +0800" stop="20261108185100 +0800">
+		<title lang="zh">寻味山海：大姚</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261108185100 +0800" stop="20261108190000 +0800">
+		<title lang="zh">秘境之眼</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261108190000 +0800" stop="20261108193100 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261108193100 +0800" stop="20261108193800 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261108193800 +0800" stop="20261108200500 +0800">
+		<title lang="zh">焦点访谈</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261108200500 +0800" stop="20261108205700 +0800">
+		<title lang="zh">孙中山(1)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261108205700 +0800" stop="20261108210100 +0800">
+		<title lang="zh">前情提要：伟大的长征(52)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261108210100 +0800" stop="20261108220000 +0800">
+		<title lang="zh">伟大的长征(52)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261108220000 +0800" stop="20261108223500 +0800">
+		<title lang="zh">晚间新闻</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261108223500 +0800" stop="20261109000000 +0800">
+		<title lang="zh">2026年中国记者节特别节目</title>
+	</programme>
 	<programme channel="CCTV-1" start="20261109000800 +0800" stop="20261109014800 +0800">
 		<title lang="zh">宗师列传·大唐诗人传-李贺</title>
 	</programme>
@@ -210,12 +771,708 @@
 	<programme channel="CCTV-1" start="20261110220000 +0800" stop="20261110223500 +0800">
 		<title lang="zh">晚间新闻</title>
 	</programme>
-	<programme channel="CCTV-1" start="20261110223500 +0800" stop="20261111001100 +0800">
+	<programme channel="CCTV-1" start="20261110223500 +0800" stop="20261111000000 +0800">
 		<title lang="zh">宗师列传·大宋词人传-秦观</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261111000000 +0800" stop="20261111001100 +0800">
+		<title lang="zh">宗师列传·大宋词人传：秦观</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261111001100 +0800" stop="20261111003300 +0800">
+		<title lang="zh">人口</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261111003300 +0800" stop="20261111010300 +0800">
+		<title lang="zh">今日说法</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261111010300 +0800" stop="20261111013300 +0800">
+		<title lang="zh">晚间新闻</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261111013300 +0800" stop="20261111020500 +0800">
+		<title lang="zh">文脉春秋(2)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261111020500 +0800" stop="20261111024900 +0800">
+		<title lang="zh">生活圈</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261111024900 +0800" stop="20261111042000 +0800">
+		<title lang="zh">宗师列传·大宋词人传：秦观</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261111042000 +0800" stop="20261111042200 +0800">
+		<title lang="zh">泱泱中华-历史文化街区(1)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261111042200 +0800" stop="20261111045200 +0800">
+		<title lang="zh">今日说法</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261111045200 +0800" stop="20261111052700 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261111052700 +0800" stop="20261111055900 +0800">
+		<title lang="zh">自然中国：探秘哀牢山-幽谷菌语</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261111055900 +0800" stop="20261111060000 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261111060000 +0800" stop="20261111070000 +0800">
+		<title lang="zh">朝闻天下</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261111070000 +0800" stop="20261111070100 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261111070100 +0800" stop="20261111083600 +0800">
+		<title lang="zh">朝闻天下</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261111083600 +0800" stop="20261111092200 +0800">
+		<title lang="zh">生活圈</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261111092200 +0800" stop="20261111101200 +0800">
+		<title lang="zh">江海潮生(28)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261111101200 +0800" stop="20261111110100 +0800">
+		<title lang="zh">江海潮生(29)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261111110100 +0800" stop="20261111114800 +0800">
+		<title lang="zh">江海潮生(30)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261111114800 +0800" stop="20261111115300 +0800">
+		<title lang="zh">《非遗里的中国》MV</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261111115300 +0800" stop="20261111120000 +0800">
+		<title lang="zh">秘境之眼</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261111120000 +0800" stop="20261111123500 +0800">
+		<title lang="zh">新闻30分</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261111123500 +0800" stop="20261111130700 +0800">
+		<title lang="zh">今日说法</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261111130700 +0800" stop="20261111135400 +0800">
+		<title lang="zh">小城良方(24)</title>
 	</programme>
 	<channel id="CCTV-2">
 		<display-name lang="zh">CCTV-2</display-name>
 	</channel>
+	<programme channel="CCTV-2" start="20261104000300 +0800" stop="20261104003700 +0800">
+		<title lang="zh">经济半小时</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104003700 +0800" stop="20261104013600 +0800">
+		<title lang="zh">一槌定音-2026-48</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104013600 +0800" stop="20261104014000 +0800">
+		<title lang="zh">奇妙中国第二季7-2分版</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104014000 +0800" stop="20261104022300 +0800">
+		<title lang="zh">对话-2026-42</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104022300 +0800" stop="20261104023200 +0800">
+		<title lang="zh">乌梁素海1-9分版</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104023200 +0800" stop="20261104033000 +0800">
+		<title lang="zh">职场健康课-2026-49</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104033000 +0800" stop="20261104035800 +0800">
+		<title lang="zh">精品财经纪录-晋在眼前1</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104035800 +0800" stop="20261104043300 +0800">
+		<title lang="zh">精品财经纪录-大河之北第二季2</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104043300 +0800" stop="20261104050100 +0800">
+		<title lang="zh">回家吃饭-2026-223</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104050100 +0800" stop="20261104053100 +0800">
+		<title lang="zh">消费新主张</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104053100 +0800" stop="20261104055900 +0800">
+		<title lang="zh">生财有道-2026-11-3</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104055900 +0800" stop="20261104065800 +0800">
+		<title lang="zh">经济信息联播</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104065800 +0800" stop="20261104070000 +0800">
+		<title lang="zh">早间天气预报</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104070000 +0800" stop="20261104090000 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104090000 +0800" stop="20261104093000 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104093000 +0800" stop="20261104095500 +0800">
+		<title lang="zh">央视财经评论-2026-11-3</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104095500 +0800" stop="20261104100000 +0800">
+		<title lang="zh">精品财经汇-2026-823</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104100000 +0800" stop="20261104103000 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104103000 +0800" stop="20261104110000 +0800">
+		<title lang="zh">经济半小时</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104110000 +0800" stop="20261104113100 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104113100 +0800" stop="20261104120000 +0800">
+		<title lang="zh">生财有道-2026-11-3</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104120000 +0800" stop="20261104130000 +0800">
+		<title lang="zh">天下财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104130000 +0800" stop="20261104134400 +0800">
+		<title lang="zh">对话-2026-42</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104134400 +0800" stop="20261104140000 +0800">
+		<title lang="zh">大国重器-实业答卷-4</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104140000 +0800" stop="20261104143000 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104143000 +0800" stop="20261104150000 +0800">
+		<title lang="zh">消费新主张</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104150000 +0800" stop="20261104153000 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104153000 +0800" stop="20261104160000 +0800">
+		<title lang="zh">回家吃饭-2026-223</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104160000 +0800" stop="20261104170000 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104170000 +0800" stop="20261104173200 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104173200 +0800" stop="20261104174000 +0800">
+		<title lang="zh">人间有味山河鲜3-8分版</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104174000 +0800" stop="20261104180500 +0800">
+		<title lang="zh">精品财经纪录-黄河味道5</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104180500 +0800" stop="20261104183000 +0800">
+		<title lang="zh">精品财经纪录-黄河味道6</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104183000 +0800" stop="20261104190000 +0800">
+		<title lang="zh">回家吃饭-2026-224</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104190000 +0800" stop="20261104193000 +0800">
+		<title lang="zh">生财有道-2026-11-4</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104193000 +0800" stop="20261104200000 +0800">
+		<title lang="zh">消费新主张</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104200000 +0800" stop="20261104203000 +0800">
+		<title lang="zh">经济半小时</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104203000 +0800" stop="20261104213000 +0800">
+		<title lang="zh">经济信息联播</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104213000 +0800" stop="20261104215600 +0800">
+		<title lang="zh">央视财经评论-2026-11-4</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104215600 +0800" stop="20261104222100 +0800">
+		<title lang="zh">CMG银发经济盛典-生活老好了-4</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104222100 +0800" stop="20261104224900 +0800">
+		<title lang="zh">秦岭· 家园1-23分版</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104224900 +0800" stop="20261104235200 +0800">
+		<title lang="zh">职场健康课-2026-49</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261104235200 +0800" stop="20261105000000 +0800">
+		<title lang="zh">经济半小时</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105002700 +0800" stop="20261105011100 +0800">
+		<title lang="zh">中国经济大讲堂-2026-42</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105011100 +0800" stop="20261105013700 +0800">
+		<title lang="zh">精品财经纪录-守望秦岭1</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105013700 +0800" stop="20261105020500 +0800">
+		<title lang="zh">精品财经纪录-晋在眼前2</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105020500 +0800" stop="20261105023300 +0800">
+		<title lang="zh">精品财经纪录-晋在眼前3</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105023300 +0800" stop="20261105024900 +0800">
+		<title lang="zh">人类记忆中国的世界遗产1-16分版</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105024900 +0800" stop="20261105033200 +0800">
+		<title lang="zh">对话-2026-42</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105033200 +0800" stop="20261105043100 +0800">
+		<title lang="zh">一槌定音-2026-48</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105043100 +0800" stop="20261105045900 +0800">
+		<title lang="zh">回家吃饭-2026-224</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105045900 +0800" stop="20261105052800 +0800">
+		<title lang="zh">消费新主张</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105052800 +0800" stop="20261105053100 +0800">
+		<title lang="zh">奇妙中国第二季9-2分版</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105053100 +0800" stop="20261105055900 +0800">
+		<title lang="zh">生财有道-2026-11-4</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105055900 +0800" stop="20261105065800 +0800">
+		<title lang="zh">经济信息联播</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105065800 +0800" stop="20261105070000 +0800">
+		<title lang="zh">早间天气预报</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105070000 +0800" stop="20261105090000 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105090000 +0800" stop="20261105093000 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105093000 +0800" stop="20261105095500 +0800">
+		<title lang="zh">央视财经评论-2026-11-4</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105095500 +0800" stop="20261105100000 +0800">
+		<title lang="zh">精品财经汇-2026-824</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105100000 +0800" stop="20261105103000 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105103000 +0800" stop="20261105110000 +0800">
+		<title lang="zh">经济半小时</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105110000 +0800" stop="20261105113100 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105113100 +0800" stop="20261105120000 +0800">
+		<title lang="zh">生财有道-2026-11-4</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105120000 +0800" stop="20261105130000 +0800">
+		<title lang="zh">天下财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105130000 +0800" stop="20261105134500 +0800">
+		<title lang="zh">中国经济大讲堂-2026-42</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105134500 +0800" stop="20261105140000 +0800">
+		<title lang="zh">大国重器-实业答卷-5</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105140000 +0800" stop="20261105143000 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105143000 +0800" stop="20261105150000 +0800">
+		<title lang="zh">消费新主张</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105150000 +0800" stop="20261105153000 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105153000 +0800" stop="20261105160000 +0800">
+		<title lang="zh">回家吃饭-2026-224</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105160000 +0800" stop="20261105170000 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105170000 +0800" stop="20261105173200 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105173200 +0800" stop="20261105174000 +0800">
+		<title lang="zh">人间有味山河鲜4-8分版</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105174000 +0800" stop="20261105180500 +0800">
+		<title lang="zh">精品财经纪录-黄河味道7</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105180500 +0800" stop="20261105183000 +0800">
+		<title lang="zh">精品财经纪录-黄河味道8</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105183000 +0800" stop="20261105190000 +0800">
+		<title lang="zh">回家吃饭-2026-225</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105190000 +0800" stop="20261105193000 +0800">
+		<title lang="zh">生财有道-2026-11-5</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105193000 +0800" stop="20261105200000 +0800">
+		<title lang="zh">消费新主张</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105200000 +0800" stop="20261105203000 +0800">
+		<title lang="zh">经济半小时</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105203000 +0800" stop="20261105213000 +0800">
+		<title lang="zh">经济信息联播</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105213000 +0800" stop="20261105215600 +0800">
+		<title lang="zh">央视财经评论-2026-11-5</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105215600 +0800" stop="20261105222100 +0800">
+		<title lang="zh">CMG银发经济盛典-生活老好了-5</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105222100 +0800" stop="20261105224900 +0800">
+		<title lang="zh">秦岭· 家园2-23分版</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105224900 +0800" stop="20261105235100 +0800">
+		<title lang="zh">一槌定音-2026-48</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261105235100 +0800" stop="20261106002600 +0800">
+		<title lang="zh">经济半小时</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106002600 +0800" stop="20261106010900 +0800">
+		<title lang="zh">对话-2026-42</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106010900 +0800" stop="20261106011100 +0800">
+		<title lang="zh">奇妙中国第二季5-2分版</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106011100 +0800" stop="20261106013800 +0800">
+		<title lang="zh">精品财经纪录-守望秦岭2</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106013800 +0800" stop="20261106023600 +0800">
+		<title lang="zh">职场健康课-2026-49</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106023600 +0800" stop="20261106025300 +0800">
+		<title lang="zh">中国传统建筑的智慧 5-16分50秒版</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106025300 +0800" stop="20261106032100 +0800">
+		<title lang="zh">精品财经纪录-晋在眼前4</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106032100 +0800" stop="20261106034900 +0800">
+		<title lang="zh">精品财经纪录-晋在眼前5</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106034900 +0800" stop="20261106043300 +0800">
+		<title lang="zh">中国经济大讲堂-2026-42</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106043300 +0800" stop="20261106050100 +0800">
+		<title lang="zh">回家吃饭-2026-225</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106050100 +0800" stop="20261106053100 +0800">
+		<title lang="zh">消费新主张</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106053100 +0800" stop="20261106055900 +0800">
+		<title lang="zh">生财有道-2026-11-5</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106055900 +0800" stop="20261106065800 +0800">
+		<title lang="zh">经济信息联播</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106065800 +0800" stop="20261106070000 +0800">
+		<title lang="zh">早间天气预报</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106070000 +0800" stop="20261106090000 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106090000 +0800" stop="20261106093000 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106093000 +0800" stop="20261106095500 +0800">
+		<title lang="zh">央视财经评论-2026-11-5</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106095500 +0800" stop="20261106100000 +0800">
+		<title lang="zh">精品财经汇-2026-825</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106100000 +0800" stop="20261106103000 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106103000 +0800" stop="20261106110000 +0800">
+		<title lang="zh">经济半小时</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106110000 +0800" stop="20261106113100 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106113100 +0800" stop="20261106120000 +0800">
+		<title lang="zh">生财有道-2026-11-5</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106120000 +0800" stop="20261106130000 +0800">
+		<title lang="zh">天下财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106130000 +0800" stop="20261106140000 +0800">
+		<title lang="zh">职场健康课-2026-49</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106140000 +0800" stop="20261106143000 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106143000 +0800" stop="20261106150000 +0800">
+		<title lang="zh">消费新主张</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106150000 +0800" stop="20261106153000 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106153000 +0800" stop="20261106160000 +0800">
+		<title lang="zh">回家吃饭-2026-225</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106160000 +0800" stop="20261106170000 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106170000 +0800" stop="20261106173200 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106173200 +0800" stop="20261106174000 +0800">
+		<title lang="zh">人间有味山河鲜5-8分版</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106174000 +0800" stop="20261106180500 +0800">
+		<title lang="zh">精品财经纪录-黄河味道9</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106180500 +0800" stop="20261106183000 +0800">
+		<title lang="zh">精品财经纪录-黄河味道10</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106183000 +0800" stop="20261106190000 +0800">
+		<title lang="zh">回家吃饭-2026-226</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106190000 +0800" stop="20261106193000 +0800">
+		<title lang="zh">生财有道-2026-11-6</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106193000 +0800" stop="20261106200000 +0800">
+		<title lang="zh">消费新主张</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106200000 +0800" stop="20261106203000 +0800">
+		<title lang="zh">经济半小时</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106203000 +0800" stop="20261106213000 +0800">
+		<title lang="zh">经济信息联播</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106213000 +0800" stop="20261106215600 +0800">
+		<title lang="zh">央视财经评论-2026-11-6</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106215600 +0800" stop="20261106222100 +0800">
+		<title lang="zh">CMG银发经济盛典-生活老好了-6</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106222100 +0800" stop="20261106224900 +0800">
+		<title lang="zh">秦岭· 家园3-23分版</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106224900 +0800" stop="20261106235000 +0800">
+		<title lang="zh">职场健康课-2026-49</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261106235000 +0800" stop="20261107002000 +0800">
+		<title lang="zh">经济半小时</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107002000 +0800" stop="20261107003100 +0800">
+		<title lang="zh">中国民居Ⅲ(1)</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107003100 +0800" stop="20261107005600 +0800">
+		<title lang="zh">精品财经纪录:守望秦岭(3)</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107005600 +0800" stop="20261107012600 +0800">
+		<title lang="zh">精品财经纪录:晋在眼前(6)</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107012600 +0800" stop="20261107020900 +0800">
+		<title lang="zh">对话</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107020900 +0800" stop="20261107025300 +0800">
+		<title lang="zh">中国经济大讲堂</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107025300 +0800" stop="20261107034300 +0800">
+		<title lang="zh">精品财经纪录</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107034300 +0800" stop="20261107043300 +0800">
+		<title lang="zh">精品财经纪录</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107043300 +0800" stop="20261107050100 +0800">
+		<title lang="zh">回家吃饭</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107050100 +0800" stop="20261107053300 +0800">
+		<title lang="zh">消费新主张</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107053300 +0800" stop="20261107055800 +0800">
+		<title lang="zh">生财有道</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107055800 +0800" stop="20261107055900 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107055900 +0800" stop="20261107070000 +0800">
+		<title lang="zh">经济信息联播</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107070000 +0800" stop="20261107070100 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107070100 +0800" stop="20261107090100 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107090100 +0800" stop="20261107092500 +0800">
+		<title lang="zh">门捷列夫很忙Ⅱ(1)</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107092500 +0800" stop="20261107093000 +0800">
+		<title lang="zh">奇妙中国(2)</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107093000 +0800" stop="20261107095500 +0800">
+		<title lang="zh">央视财经评论</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107095500 +0800" stop="20261107100000 +0800">
+		<title lang="zh">消费新主张精编</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107100000 +0800" stop="20261107103000 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107103000 +0800" stop="20261107105800 +0800">
+		<title lang="zh">经济半小时</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107105800 +0800" stop="20261107113400 +0800">
+		<title lang="zh">上新吧福味(3)</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107113400 +0800" stop="20261107120000 +0800">
+		<title lang="zh">精品财经纪录:乡野有真味Ⅱ(5)</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107120000 +0800" stop="20261107130100 +0800">
+		<title lang="zh">天下财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107130100 +0800" stop="20261107134400 +0800">
+		<title lang="zh">对话</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107130100 +0800" stop="20261107134400 +0800">
+		<title lang="zh">对话</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107134400 +0800" stop="20261107140000 +0800">
+		<title lang="zh">精品财经汇</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107140000 +0800" stop="20261107143200 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107143200 +0800" stop="20261107153400 +0800">
+		<title lang="zh">一槌定音</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107153400 +0800" stop="20261107160000 +0800">
+		<title lang="zh">精品财经汇</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107160000 +0800" stop="20261107170200 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107170200 +0800" stop="20261107173200 +0800">
+		<title lang="zh">精品财经纪录:美食令Ⅳ(1)</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107173200 +0800" stop="20261107180400 +0800">
+		<title lang="zh">精品财经纪录:无辣不欢(3)</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107180400 +0800" stop="20261107183500 +0800">
+		<title lang="zh">精品财经纪录:无辣不欢(4)</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107183500 +0800" stop="20261107190000 +0800">
+		<title lang="zh">乡厨(1)</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107190000 +0800" stop="20261107200000 +0800">
+		<title lang="zh">舆图探山河(5)</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107200000 +0800" stop="20261107203000 +0800">
+		<title lang="zh">沃野千里(3)</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107203000 +0800" stop="20261107213000 +0800">
+		<title lang="zh">经济信息联播</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107213000 +0800" stop="20261107221600 +0800">
+		<title lang="zh">对话</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107221600 +0800" stop="20261107223100 +0800">
+		<title lang="zh">大国重器-实业答卷(6)</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107223100 +0800" stop="20261107225800 +0800">
+		<title lang="zh">秦岭·家园(4)</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107225800 +0800" stop="20261107232800 +0800">
+		<title lang="zh">精品财经纪录:大唐盛世千年文物</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107232800 +0800" stop="20261107234300 +0800">
+		<title lang="zh">大国重器-实业答卷(6)</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261107234300 +0800" stop="20261108003500 +0800">
+		<title lang="zh">精品财经纪录</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261108003500 +0800" stop="20261108013500 +0800">
+		<title lang="zh">舆图探山河(5)</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261108013500 +0800" stop="20261108022000 +0800">
+		<title lang="zh">对话</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261108022000 +0800" stop="20261108024400 +0800">
+		<title lang="zh">精品财经纪录:崂山(1)</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261108024400 +0800" stop="20261108030800 +0800">
+		<title lang="zh">精品财经纪录:崂山(2)</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261108030800 +0800" stop="20261108034800 +0800">
+		<title lang="zh">精品财经纪录</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261108034800 +0800" stop="20261108044600 +0800">
+		<title lang="zh">职场健康课</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261108044600 +0800" stop="20261108053200 +0800">
+		<title lang="zh">中国经济大讲堂</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261108053200 +0800" stop="20261108055800 +0800">
+		<title lang="zh">回家吃饭</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261108055800 +0800" stop="20261108055900 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261108055900 +0800" stop="20261108070000 +0800">
+		<title lang="zh">经济信息联播</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261108070000 +0800" stop="20261108070100 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261108070100 +0800" stop="20261108090100 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261108090100 +0800" stop="20261108100000 +0800">
+		<title lang="zh">职场健康课</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261108100000 +0800" stop="20261108103000 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261108103000 +0800" stop="20261108105800 +0800">
+		<title lang="zh">经济半小时</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261108105800 +0800" stop="20261108113400 +0800">
+		<title lang="zh">上新吧福味(4)</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261108113400 +0800" stop="20261108120000 +0800">
+		<title lang="zh">精品财经纪录:黄河味道(11)</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261108120000 +0800" stop="20261108130100 +0800">
+		<title lang="zh">天下财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261108130100 +0800" stop="20261108134500 +0800">
+		<title lang="zh">中国经济大讲堂</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261108130100 +0800" stop="20261108134500 +0800">
+		<title lang="zh">中国经济大讲堂</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261108134500 +0800" stop="20261108140000 +0800">
+		<title lang="zh">精品财经汇</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261108140000 +0800" stop="20261108143200 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261108143200 +0800" stop="20261108153400 +0800">
+		<title lang="zh">舆图探山河(5)</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261108153400 +0800" stop="20261108160000 +0800">
+		<title lang="zh">精品财经汇</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261108160000 +0800" stop="20261108170100 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261108170100 +0800" stop="20261108173300 +0800">
+		<title lang="zh">精品财经纪录:无辣不欢(5)</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261108173300 +0800" stop="20261108180000 +0800">
+		<title lang="zh">乡厨(2)</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261108180000 +0800" stop="20261108190000 +0800">
+		<title lang="zh">一槌定音</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261108190000 +0800" stop="20261108200000 +0800">
+		<title lang="zh">职场健康课</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261108200000 +0800" stop="20261108203000 +0800">
+		<title lang="zh">财经调查</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261108203000 +0800" stop="20261108213000 +0800">
+		<title lang="zh">经济信息联播</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261108213000 +0800" stop="20261108221600 +0800">
+		<title lang="zh">中国经济大讲堂</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261108221600 +0800" stop="20261108222600 +0800">
+		<title lang="zh">第三届中国ESG榜样盛典ESG在行动</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261108222600 +0800" stop="20261108225300 +0800">
+		<title lang="zh">秦岭·家园(5)</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261108225300 +0800" stop="20261108230800 +0800">
+		<title lang="zh">精品财经纪录:雕琢岁月(1)</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261108230800 +0800" stop="20261108232400 +0800">
+		<title lang="zh">精品财经纪录:雕琢岁月(2)</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261108232400 +0800" stop="20261109000000 +0800">
+		<title lang="zh">一槌定音</title>
+	</programme>
 	<programme channel="CCTV-2" start="20261109002800 +0800" stop="20261109012800 +0800">
 		<title lang="zh">职场健康课-2026-50</title>
 	</programme>
@@ -456,12 +1713,396 @@
 	<programme channel="CCTV-2" start="20261110224600 +0800" stop="20261110231800 +0800">
 		<title lang="zh">精品财经纪录-大唐盛世千年文物4</title>
 	</programme>
-	<programme channel="CCTV-2" start="20261110231800 +0800" stop="20261111000500 +0800">
+	<programme channel="CCTV-2" start="20261110231800 +0800" stop="20261111000000 +0800">
 		<title lang="zh">中国经济大讲堂-2026-43</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261111000000 +0800" stop="20261111000500 +0800">
+		<title lang="zh">中国经济大讲堂</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261111000500 +0800" stop="20261111003900 +0800">
+		<title lang="zh">经济半小时</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261111003900 +0800" stop="20261111014000 +0800">
+		<title lang="zh">一槌定音</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261111014000 +0800" stop="20261111022300 +0800">
+		<title lang="zh">对话</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261111022300 +0800" stop="20261111023000 +0800">
+		<title lang="zh">万物之生贵州篇(1)</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261111023000 +0800" stop="20261111031500 +0800">
+		<title lang="zh">精品财经纪录:我们的国家公园(2)</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261111031500 +0800" stop="20261111032000 +0800">
+		<title lang="zh">雨林之子(1)</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261111032000 +0800" stop="20261111033500 +0800">
+		<title lang="zh">精品财经纪录:雨林之子(2)</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261111033500 +0800" stop="20261111043300 +0800">
+		<title lang="zh">职场健康课</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261111043300 +0800" stop="20261111050100 +0800">
+		<title lang="zh">回家吃饭</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261111050100 +0800" stop="20261111053100 +0800">
+		<title lang="zh">消费新主张</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261111053100 +0800" stop="20261111055800 +0800">
+		<title lang="zh">解码财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261111055800 +0800" stop="20261111055900 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261111055900 +0800" stop="20261111070000 +0800">
+		<title lang="zh">经济信息联播</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261111070000 +0800" stop="20261111070100 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261111070100 +0800" stop="20261111090000 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261111090000 +0800" stop="20261111093000 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261111093000 +0800" stop="20261111100000 +0800">
+		<title lang="zh">央视财经评论</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261111100000 +0800" stop="20261111103000 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261111103000 +0800" stop="20261111110000 +0800">
+		<title lang="zh">经济半小时</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261111110000 +0800" stop="20261111113100 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261111113100 +0800" stop="20261111120000 +0800">
+		<title lang="zh">解码财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261111120000 +0800" stop="20261111130000 +0800">
+		<title lang="zh">天下财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20261111130000 +0800" stop="20261111134400 +0800">
+		<title lang="zh">对话</title>
 	</programme>
 	<channel id="CCTV-3">
 		<display-name lang="zh">CCTV-3</display-name>
 	</channel>
+	<programme channel="CCTV-3" start="20261104000000 +0800" stop="20261104013200 +0800">
+		<title lang="zh">综艺喜乐汇</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261104013200 +0800" stop="20261104022200 +0800">
+		<title lang="zh">综艺喜乐汇</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261104022200 +0800" stop="20261104034000 +0800">
+		<title lang="zh">综艺喜乐汇</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261104034000 +0800" stop="20261104045700 +0800">
+		<title lang="zh">星光大道-2026-44</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261104045700 +0800" stop="20261104061400 +0800">
+		<title lang="zh">CMG夏日歌会-陕西榆林-完整版2</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261104061400 +0800" stop="20261104073200 +0800">
+		<title lang="zh">你好时光(第二季)-7</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261104073200 +0800" stop="20261104075400 +0800">
+		<title lang="zh">文化十分-2026-221</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261104075400 +0800" stop="20261104084900 +0800">
+		<title lang="zh">综艺喜乐汇</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261104084900 +0800" stop="20261104095900 +0800">
+		<title lang="zh">跟着春晚游中国(义乌篇)-1</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261104095900 +0800" stop="20261104112800 +0800">
+		<title lang="zh">全民畅舞-28</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261104112800 +0800" stop="20261104130000 +0800">
+		<title lang="zh">越战越勇-2026-34</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261104130000 +0800" stop="20261104132000 +0800">
+		<title lang="zh">文化十分-2026-222</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261104132000 +0800" stop="20261104132600 +0800">
+		<title lang="zh">综艺喜乐汇</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261104132600 +0800" stop="20261104145200 +0800">
+		<title lang="zh">此生要去的100个地方(第二季)-1</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261104145200 +0800" stop="20261104153200 +0800">
+		<title lang="zh">综艺喜乐汇</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261104153200 +0800" stop="20261104170400 +0800">
+		<title lang="zh">全民畅舞-26</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261104170400 +0800" stop="20261104180500 +0800">
+		<title lang="zh">综艺喜乐汇</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261104180500 +0800" stop="20261104193000 +0800">
+		<title lang="zh">开门大吉-2026-44</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261104193000 +0800" stop="20261104205300 +0800">
+		<title lang="zh">越战越勇-2026-43</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261104205300 +0800" stop="20261104215800 +0800">
+		<title lang="zh">国音正青春-5</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261104215800 +0800" stop="20261104230100 +0800">
+		<title lang="zh">跟着春晚游中国(宜宾篇)-3</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261104230100 +0800" stop="20261105011900 +0800">
+		<title lang="zh">综艺喜乐汇</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261105011900 +0800" stop="20261105020900 +0800">
+		<title lang="zh">综艺喜乐汇</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261105020900 +0800" stop="20261105032500 +0800">
+		<title lang="zh">综艺喜乐汇</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261105032500 +0800" stop="20261105050700 +0800">
+		<title lang="zh">第二届丝路之星国际音乐大赛-5</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261105050700 +0800" stop="20261105062700 +0800">
+		<title lang="zh">CMG夏日歌会-陕西榆林站-重播版</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261105062700 +0800" stop="20261105071900 +0800">
+		<title lang="zh">我的艺术清单-2026-6</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261105071900 +0800" stop="20261105074100 +0800">
+		<title lang="zh">文化十分-2026-222</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261105074100 +0800" stop="20261105084400 +0800">
+		<title lang="zh">综艺喜乐汇</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261105084400 +0800" stop="20261105095600 +0800">
+		<title lang="zh">跟着春晚游中国(宜宾篇)-1</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261105095600 +0800" stop="20261105112600 +0800">
+		<title lang="zh">开门大吉-2026-32</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261105112600 +0800" stop="20261105130000 +0800">
+		<title lang="zh">越战越勇-2026-43</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261105130000 +0800" stop="20261105132500 +0800">
+		<title lang="zh">文化十分-2026-223</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261105132500 +0800" stop="20261105152200 +0800">
+		<title lang="zh">第二届丝路之星国际音乐大赛-6</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261105152200 +0800" stop="20261105155900 +0800">
+		<title lang="zh">综艺喜乐汇</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261105155900 +0800" stop="20261105170300 +0800">
+		<title lang="zh">远山之约(蜀山篇)-2</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261105170300 +0800" stop="20261105180600 +0800">
+		<title lang="zh">综艺喜乐汇</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261105180600 +0800" stop="20261105193000 +0800">
+		<title lang="zh">开门大吉-2026-35</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261105193000 +0800" stop="20261105210600 +0800">
+		<title lang="zh">味你而来拾鲜季-2</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261105210600 +0800" stop="20261105222800 +0800">
+		<title lang="zh">越战越勇-2026-42</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261105222800 +0800" stop="20261105230000 +0800">
+		<title lang="zh">综艺喜乐汇</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261105230000 +0800" stop="20261106003200 +0800">
+		<title lang="zh">综艺喜乐汇</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261106003200 +0800" stop="20261106011800 +0800">
+		<title lang="zh">综艺喜乐汇</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261106011800 +0800" stop="20261106020800 +0800">
+		<title lang="zh">综艺喜乐汇</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261106020800 +0800" stop="20261106032400 +0800">
+		<title lang="zh">综艺喜乐汇</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261106032400 +0800" stop="20261106044100 +0800">
+		<title lang="zh">星光大道-2026-38</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261106044100 +0800" stop="20261106055800 +0800">
+		<title lang="zh">全民畅舞-23</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261106055800 +0800" stop="20261106064900 +0800">
+		<title lang="zh">我的艺术清单-2026-3</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261106064900 +0800" stop="20261106071200 +0800">
+		<title lang="zh">文化十分-2026-223</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261106071200 +0800" stop="20261106081800 +0800">
+		<title lang="zh">新花路放-最美的心愿之旅-10</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261106081800 +0800" stop="20261106095700 +0800">
+		<title lang="zh">味你而来拾鲜季-2</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261106095700 +0800" stop="20261106112700 +0800">
+		<title lang="zh">越战越勇-2026-35</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261106112700 +0800" stop="20261106130000 +0800">
+		<title lang="zh">开门大吉-2026-43</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261106130000 +0800" stop="20261106132400 +0800">
+		<title lang="zh">文化十分-2026-224</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261106132400 +0800" stop="20261106145400 +0800">
+		<title lang="zh">你好时光(第二季)-9</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261106145400 +0800" stop="20261106152900 +0800">
+		<title lang="zh">综艺喜乐汇</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261106152900 +0800" stop="20261106170200 +0800">
+		<title lang="zh">全民畅舞-28</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261106170200 +0800" stop="20261106180400 +0800">
+		<title lang="zh">综艺喜乐汇</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261106180400 +0800" stop="20261106193000 +0800">
+		<title lang="zh">越战越勇-2026-43</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261106193000 +0800" stop="20261106205200 +0800">
+		<title lang="zh">开门大吉-2026-27</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261106205200 +0800" stop="20261106215900 +0800">
+		<title lang="zh">新花路放-最美的心愿之旅-12</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261106215900 +0800" stop="20261106230200 +0800">
+		<title lang="zh">国音正青春-5</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261106230200 +0800" stop="20261107000000 +0800">
+		<title lang="zh">综艺喜乐汇</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261107013900 +0800" stop="20261107030200 +0800">
+		<title lang="zh">一馔千年</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261107030200 +0800" stop="20261107042900 +0800">
+		<title lang="zh">CMG金秋歌会:广东南沙站</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261107042900 +0800" stop="20261107054600 +0800">
+		<title lang="zh">你好时光Ⅱ(9)</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261107054600 +0800" stop="20261107060600 +0800">
+		<title lang="zh">综艺喜乐汇:锦绣神州歌曲集锦</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261107060600 +0800" stop="20261107060700 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261107060700 +0800" stop="20261107062900 +0800">
+		<title lang="zh">文化十分</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261107062900 +0800" stop="20261107073500 +0800">
+		<title lang="zh">国音正青春(3)</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261107073500 +0800" stop="20261107073800 +0800">
+		<title lang="zh">&lt;丝路之星国际音乐大赛&gt;先导片</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261107073800 +0800" stop="20261107092600 +0800">
+		<title lang="zh">第二届丝路之星国际音乐大赛(7)</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261107092600 +0800" stop="20261107105800 +0800">
+		<title lang="zh">全民畅舞(17)</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261107105800 +0800" stop="20261107123000 +0800">
+		<title lang="zh">越战越勇</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261107123000 +0800" stop="20261107134400 +0800">
+		<title lang="zh">新花路放-最美的心愿之旅(12)</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261107123000 +0800" stop="20261107134400 +0800">
+		<title lang="zh">新花路放-最美的心愿之旅(12)</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261107134400 +0800" stop="20261107152800 +0800">
+		<title lang="zh">味你而来拾鲜季(2)</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261107152800 +0800" stop="20261107170300 +0800">
+		<title lang="zh">开门大吉</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261107170300 +0800" stop="20261107180600 +0800">
+		<title lang="zh">综艺喜乐汇</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261107180600 +0800" stop="20261107193000 +0800">
+		<title lang="zh">越战越勇</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261107193000 +0800" stop="20261107205400 +0800">
+		<title lang="zh">你好时光Ⅱ(10)</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261107205400 +0800" stop="20261107223200 +0800">
+		<title lang="zh">笑有新生</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261107223200 +0800" stop="20261107230400 +0800">
+		<title lang="zh">综艺喜乐汇:多彩少年(5)</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261108012200 +0800" stop="20261108021200 +0800">
+		<title lang="zh">爱笑时光机</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261108021200 +0800" stop="20261108032800 +0800">
+		<title lang="zh">一馔千年</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261108032800 +0800" stop="20261108044500 +0800">
+		<title lang="zh">全民畅舞(19)</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261108044500 +0800" stop="20261108051000 +0800">
+		<title lang="zh">综艺喜乐汇:锦绣神州歌曲集锦(4)</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261108051000 +0800" stop="20261108062800 +0800">
+		<title lang="zh">全民畅舞(22)</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261108062800 +0800" stop="20261108062900 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261108062900 +0800" stop="20261108073300 +0800">
+		<title lang="zh">国音正青春(5)</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261108073300 +0800" stop="20261108084300 +0800">
+		<title lang="zh">新花路放-最美的心愿之旅(12)</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261108084300 +0800" stop="20261108102400 +0800">
+		<title lang="zh">笑有新生</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261108102400 +0800" stop="20261108115500 +0800">
+		<title lang="zh">开门大吉</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261108115500 +0800" stop="20261108132600 +0800">
+		<title lang="zh">越战越勇</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261108132600 +0800" stop="20261108152000 +0800">
+		<title lang="zh">第二届丝路之星国际音乐大赛(6)</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261108132600 +0800" stop="20261108152000 +0800">
+		<title lang="zh">第二届丝路之星国际音乐大赛(6)</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261108152000 +0800" stop="20261108165600 +0800">
+		<title lang="zh">你好时光Ⅱ(10)</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261108165600 +0800" stop="20261108175300 +0800">
+		<title lang="zh">综艺喜乐汇</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261108175300 +0800" stop="20261108180100 +0800">
+		<title lang="zh">综艺喜乐汇:瓷影</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261108180100 +0800" stop="20261108192700 +0800">
+		<title lang="zh">开门大吉</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261108192700 +0800" stop="20261108193000 +0800">
+		<title lang="zh">&lt;丝路之星国际音乐大赛&gt;先导片</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261108193000 +0800" stop="20261108211900 +0800">
+		<title lang="zh">第二届丝路之星国际音乐大赛(8)</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261108211900 +0800" stop="20261108224100 +0800">
+		<title lang="zh">此生要去的100个地方Ⅱ(2)</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261108224100 +0800" stop="20261109000000 +0800">
+		<title lang="zh">综艺喜乐汇:国家宝藏Ⅳ精编(7)</title>
+	</programme>
 	<programme channel="CCTV-3" start="20261109003100 +0800" stop="20261109011700 +0800">
 		<title lang="zh">综艺喜乐汇</title>
 	</programme>
@@ -588,12 +2229,690 @@
 	<programme channel="CCTV-3" start="20261110212600 +0800" stop="20261110231900 +0800">
 		<title lang="zh">第二届丝路之星国际音乐大赛-8</title>
 	</programme>
-	<programme channel="CCTV-3" start="20261110231900 +0800" stop="20261111000500 +0800">
+	<programme channel="CCTV-3" start="20261110231900 +0800" stop="20261111000000 +0800">
 		<title lang="zh">综艺喜乐汇</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261111000000 +0800" stop="20261111000500 +0800">
+		<title lang="zh">利剑玫瑰(5)</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261111000500 +0800" stop="20261111005100 +0800">
+		<title lang="zh">利剑玫瑰(6)</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261111005100 +0800" stop="20261111013700 +0800">
+		<title lang="zh">利剑玫瑰(7)</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261111013700 +0800" stop="20261111024900 +0800">
+		<title lang="zh">综艺喜乐汇:此生要去的100个地方</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261111024900 +0800" stop="20261111034900 +0800">
+		<title lang="zh">跟着春晚游中国义乌篇(1)</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261111034900 +0800" stop="20261111050600 +0800">
+		<title lang="zh">星光大道</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261111050600 +0800" stop="20261111063600 +0800">
+		<title lang="zh">民歌·中国:开播吧!国潮Ⅲ精编</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261111063600 +0800" stop="20261111065700 +0800">
+		<title lang="zh">文化十分</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261111065700 +0800" stop="20261111074900 +0800">
+		<title lang="zh">远山之约蜀山篇(2)</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261111074900 +0800" stop="20261111084500 +0800">
+		<title lang="zh">综艺喜乐汇</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261111084500 +0800" stop="20261111095600 +0800">
+		<title lang="zh">新花路放-最美的心愿之旅(3)</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261111095600 +0800" stop="20261111112600 +0800">
+		<title lang="zh">全民畅舞(29)</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261111112600 +0800" stop="20261111130000 +0800">
+		<title lang="zh">越战越勇</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261111130000 +0800" stop="20261111132400 +0800">
+		<title lang="zh">文化十分</title>
+	</programme>
+	<programme channel="CCTV-3" start="20261111132400 +0800" stop="20261111145200 +0800">
+		<title lang="zh">此生要去的100个地方Ⅱ(2)</title>
 	</programme>
 	<channel id="CCTV-4">
 		<display-name lang="zh">CCTV-4</display-name>
 	</channel>
+	<programme channel="CCTV-4" start="20261104003600 +0800" stop="20261104012300 +0800">
+		<title lang="zh">爱在青山绿水间第28集</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261104012300 +0800" stop="20261104015300 +0800">
+		<title lang="zh">中国文艺-2026-219</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261104015300 +0800" stop="20261104020000 +0800">
+		<title lang="zh">记住乡愁-片段展播-2024-37</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261104020000 +0800" stop="20261104023000 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261104023000 +0800" stop="20261104030200 +0800">
+		<title lang="zh">走遍中国-2026-175</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261104030200 +0800" stop="20261104031000 +0800">
+		<title lang="zh">国家公园精彩片段-13</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261104031000 +0800" stop="20261104040000 +0800">
+		<title lang="zh">远方的家2026-228</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261104040000 +0800" stop="20261104043000 +0800">
+		<title lang="zh">中国新闻</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261104043000 +0800" stop="20261104045700 +0800">
+		<title lang="zh">今日关注</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261104045700 +0800" stop="20261104050000 +0800">
+		<title lang="zh">早间天气预报</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261104050000 +0800" stop="20261104053000 +0800">
+		<title lang="zh">国家记忆-2026-146</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261104053000 +0800" stop="20261104060000 +0800">
+		<title lang="zh">走遍中国-2026-175</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261104060000 +0800" stop="20261104063000 +0800">
+		<title lang="zh">海峡两岸-2026-307</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261104063000 +0800" stop="20261104070000 +0800">
+		<title lang="zh">今日亚洲</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261104070000 +0800" stop="20261104073000 +0800">
+		<title lang="zh">中国新闻</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261104073000 +0800" stop="20261104080000 +0800">
+		<title lang="zh">今日关注</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261104080000 +0800" stop="20261104090000 +0800">
+		<title lang="zh">今日环球</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261104090000 +0800" stop="20261104092800 +0800">
+		<title lang="zh">今日亚洲</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261104092800 +0800" stop="20261104100000 +0800">
+		<title lang="zh">中国文艺-2026-219</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261104100000 +0800" stop="20261104103000 +0800">
+		<title lang="zh">2026年国台办发布会-32</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261104103000 +0800" stop="20261104105800 +0800">
+		<title lang="zh">走遍中国-2026-175</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261104105800 +0800" stop="20261104113000 +0800">
+		<title lang="zh">国家记忆-2026-146</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261104113000 +0800" stop="20261104120000 +0800">
+		<title lang="zh">海峡两岸-2026-307</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261104120000 +0800" stop="20261104130500 +0800">
+		<title lang="zh">中国新闻</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261104130500 +0800" stop="20261104135400 +0800">
+		<title lang="zh">归队11/34</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261104135400 +0800" stop="20261104144300 +0800">
+		<title lang="zh">归队12/34</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261104144300 +0800" stop="20261104153400 +0800">
+		<title lang="zh">归队13/34</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261104153400 +0800" stop="20261104162400 +0800">
+		<title lang="zh">归队14/34</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261104162400 +0800" stop="20261104171500 +0800">
+		<title lang="zh">归队15/34</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261104171500 +0800" stop="20261104180000 +0800">
+		<title lang="zh">远方的家2026-229</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261104180000 +0800" stop="20261104190000 +0800">
+		<title lang="zh">中国新闻</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261104190000 +0800" stop="20261104193000 +0800">
+		<title lang="zh">中国新闻</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261104193000 +0800" stop="20261104200000 +0800">
+		<title lang="zh">今日亚洲</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261104200000 +0800" stop="20261104203000 +0800">
+		<title lang="zh">国家记忆-2026-147</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261104203000 +0800" stop="20261104210000 +0800">
+		<title lang="zh">海峡两岸-2026-308</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261104210000 +0800" stop="20261104213000 +0800">
+		<title lang="zh">中国新闻</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261104213000 +0800" stop="20261104220000 +0800">
+		<title lang="zh">今日关注</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261104220000 +0800" stop="20261104223000 +0800">
+		<title lang="zh">走遍中国-2026-176</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261104223000 +0800" stop="20261104230400 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261104230400 +0800" stop="20261104235000 +0800">
+		<title lang="zh">爱在青山绿水间29/33</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261104235000 +0800" stop="20261105000000 +0800">
+		<title lang="zh">爱在青山绿水间30/33</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105003600 +0800" stop="20261105012300 +0800">
+		<title lang="zh">爱在青山绿水间第31集</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105012300 +0800" stop="20261105015300 +0800">
+		<title lang="zh">中国文艺-2026-220</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105015300 +0800" stop="20261105020000 +0800">
+		<title lang="zh">记住乡愁-片段展播-2024-38</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105020000 +0800" stop="20261105023000 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105023000 +0800" stop="20261105030200 +0800">
+		<title lang="zh">走遍中国-2026-176</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105030200 +0800" stop="20261105031000 +0800">
+		<title lang="zh">国家公园精彩片段-12</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105031000 +0800" stop="20261105040000 +0800">
+		<title lang="zh">远方的家2026-229</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105040000 +0800" stop="20261105043000 +0800">
+		<title lang="zh">中国新闻</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105043000 +0800" stop="20261105045700 +0800">
+		<title lang="zh">今日关注</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105045700 +0800" stop="20261105050000 +0800">
+		<title lang="zh">早间天气预报</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105050000 +0800" stop="20261105053000 +0800">
+		<title lang="zh">国家记忆-2026-147</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105053000 +0800" stop="20261105060000 +0800">
+		<title lang="zh">走遍中国-2026-176</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105060000 +0800" stop="20261105063000 +0800">
+		<title lang="zh">海峡两岸-2026-308</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105063000 +0800" stop="20261105070000 +0800">
+		<title lang="zh">今日亚洲</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105070000 +0800" stop="20261105073000 +0800">
+		<title lang="zh">中国新闻</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105073000 +0800" stop="20261105080000 +0800">
+		<title lang="zh">今日关注</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105080000 +0800" stop="20261105090000 +0800">
+		<title lang="zh">今日环球</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105090000 +0800" stop="20261105092800 +0800">
+		<title lang="zh">今日亚洲</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105092800 +0800" stop="20261105095800 +0800">
+		<title lang="zh">中国文艺-2026-220</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105095800 +0800" stop="20261105100200 +0800">
+		<title lang="zh">记住乡愁-片段展播-2024-15</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105100200 +0800" stop="20261105100600 +0800">
+		<title lang="zh">记住乡愁-片段展播-2024-6</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105100600 +0800" stop="20261105105100 +0800">
+		<title lang="zh">远方的家2026-229</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105105100 +0800" stop="20261105105500 +0800">
+		<title lang="zh">记住乡愁-片段展播-2024-7</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105105500 +0800" stop="20261105113000 +0800">
+		<title lang="zh">国家记忆-2026-147</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105113000 +0800" stop="20261105120000 +0800">
+		<title lang="zh">海峡两岸-2026-308</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105120000 +0800" stop="20261105130500 +0800">
+		<title lang="zh">中国新闻</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105130500 +0800" stop="20261105135400 +0800">
+		<title lang="zh">归队16/34</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105135400 +0800" stop="20261105144300 +0800">
+		<title lang="zh">归队17/34</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105144300 +0800" stop="20261105153400 +0800">
+		<title lang="zh">归队18/34</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105153400 +0800" stop="20261105162400 +0800">
+		<title lang="zh">归队19/34</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105162400 +0800" stop="20261105171500 +0800">
+		<title lang="zh">归队20/34</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105171500 +0800" stop="20261105180000 +0800">
+		<title lang="zh">远方的家2026-230</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105180000 +0800" stop="20261105190000 +0800">
+		<title lang="zh">中国新闻</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105190000 +0800" stop="20261105193000 +0800">
+		<title lang="zh">中国新闻</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105193000 +0800" stop="20261105200000 +0800">
+		<title lang="zh">今日亚洲</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105200000 +0800" stop="20261105203000 +0800">
+		<title lang="zh">国家记忆-2026-148</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105203000 +0800" stop="20261105210000 +0800">
+		<title lang="zh">海峡两岸-2026-309</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105210000 +0800" stop="20261105213000 +0800">
+		<title lang="zh">中国新闻</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105213000 +0800" stop="20261105220000 +0800">
+		<title lang="zh">今日关注</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105220000 +0800" stop="20261105223000 +0800">
+		<title lang="zh">走遍中国-2026-177</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105223000 +0800" stop="20261105230400 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105230400 +0800" stop="20261105235000 +0800">
+		<title lang="zh">爱在青山绿水间32/33</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261105235000 +0800" stop="20261106003600 +0800">
+		<title lang="zh">爱在青山绿水间33/33</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106003600 +0800" stop="20261106012300 +0800">
+		<title lang="zh">种墨园第1集</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106012300 +0800" stop="20261106015300 +0800">
+		<title lang="zh">中国文艺-2026-221</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106015300 +0800" stop="20261106020000 +0800">
+		<title lang="zh">记住乡愁-片段展播-2024-39</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106020000 +0800" stop="20261106023000 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106023000 +0800" stop="20261106030200 +0800">
+		<title lang="zh">走遍中国-2026-177</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106030200 +0800" stop="20261106031000 +0800">
+		<title lang="zh">国家公园精彩片段-11</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106031000 +0800" stop="20261106040000 +0800">
+		<title lang="zh">远方的家2026-230</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106040000 +0800" stop="20261106043000 +0800">
+		<title lang="zh">中国新闻</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106043000 +0800" stop="20261106045700 +0800">
+		<title lang="zh">今日关注</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106045700 +0800" stop="20261106050000 +0800">
+		<title lang="zh">早间天气预报</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106050000 +0800" stop="20261106053000 +0800">
+		<title lang="zh">国家记忆-2026-148</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106053000 +0800" stop="20261106060000 +0800">
+		<title lang="zh">走遍中国-2026-177</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106060000 +0800" stop="20261106063000 +0800">
+		<title lang="zh">海峡两岸-2026-309</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106063000 +0800" stop="20261106070000 +0800">
+		<title lang="zh">今日亚洲</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106070000 +0800" stop="20261106073000 +0800">
+		<title lang="zh">中国新闻</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106073000 +0800" stop="20261106080000 +0800">
+		<title lang="zh">今日关注</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106080000 +0800" stop="20261106090000 +0800">
+		<title lang="zh">今日环球</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106090000 +0800" stop="20261106092800 +0800">
+		<title lang="zh">今日亚洲</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106092800 +0800" stop="20261106095800 +0800">
+		<title lang="zh">中国文艺-2026-221</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106095800 +0800" stop="20261106100100 +0800">
+		<title lang="zh">记住乡愁-片段展播-2024-41</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106100100 +0800" stop="20261106100400 +0800">
+		<title lang="zh">记住乡愁-片段展播-2024-8</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106100400 +0800" stop="20261106104900 +0800">
+		<title lang="zh">远方的家2026-230</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106104900 +0800" stop="20261106105200 +0800">
+		<title lang="zh">记住乡愁-片段展播-2024-9</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106105200 +0800" stop="20261106105500 +0800">
+		<title lang="zh">记住乡愁-片段展播-2024-10</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106105500 +0800" stop="20261106113000 +0800">
+		<title lang="zh">国家记忆-2026-148</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106113000 +0800" stop="20261106120000 +0800">
+		<title lang="zh">海峡两岸-2026-309</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106120000 +0800" stop="20261106130500 +0800">
+		<title lang="zh">中国新闻</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106130500 +0800" stop="20261106135400 +0800">
+		<title lang="zh">归队21/34</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106135400 +0800" stop="20261106144300 +0800">
+		<title lang="zh">归队22/34</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106144300 +0800" stop="20261106153400 +0800">
+		<title lang="zh">归队23/34</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106153400 +0800" stop="20261106162400 +0800">
+		<title lang="zh">归队24/34</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106162400 +0800" stop="20261106171500 +0800">
+		<title lang="zh">归队25/34</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106171500 +0800" stop="20261106180000 +0800">
+		<title lang="zh">远方的家2026-231</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106180000 +0800" stop="20261106190000 +0800">
+		<title lang="zh">中国新闻</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106190000 +0800" stop="20261106193000 +0800">
+		<title lang="zh">中国新闻</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106193000 +0800" stop="20261106200000 +0800">
+		<title lang="zh">今日亚洲</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106200000 +0800" stop="20261106203000 +0800">
+		<title lang="zh">国家记忆-2026-149</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106203000 +0800" stop="20261106210000 +0800">
+		<title lang="zh">海峡两岸-2026-310</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106210000 +0800" stop="20261106213000 +0800">
+		<title lang="zh">中国新闻</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106213000 +0800" stop="20261106220000 +0800">
+		<title lang="zh">今日关注</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106220000 +0800" stop="20261106223000 +0800">
+		<title lang="zh">鲁健访谈-2026-45</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106223000 +0800" stop="20261106230400 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106230400 +0800" stop="20261106235000 +0800">
+		<title lang="zh">种墨园2/34</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261106235000 +0800" stop="20261107000000 +0800">
+		<title lang="zh">种墨园3/34</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261107000000 +0800" stop="20261107004600 +0800">
+		<title lang="zh">种墨园(3)</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261107004600 +0800" stop="20261107013200 +0800">
+		<title lang="zh">种墨园(4)</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261107013200 +0800" stop="20261107020000 +0800">
+		<title lang="zh">中国文艺</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261107020000 +0800" stop="20261107024000 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261107024000 +0800" stop="20261107031000 +0800">
+		<title lang="zh">鲁健访谈</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261107031000 +0800" stop="20261107040000 +0800">
+		<title lang="zh">远方的家</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261107040000 +0800" stop="20261107043000 +0800">
+		<title lang="zh">中国新闻</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261107043000 +0800" stop="20261107050000 +0800">
+		<title lang="zh">今日关注</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261107050000 +0800" stop="20261107053000 +0800">
+		<title lang="zh">国家记忆</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261107053000 +0800" stop="20261107060000 +0800">
+		<title lang="zh">鲁健访谈</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261107060000 +0800" stop="20261107063000 +0800">
+		<title lang="zh">海峡两岸</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261107063000 +0800" stop="20261107070000 +0800">
+		<title lang="zh">今日亚洲</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261107070000 +0800" stop="20261107073000 +0800">
+		<title lang="zh">中国新闻</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261107073000 +0800" stop="20261107080000 +0800">
+		<title lang="zh">今日关注</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261107080000 +0800" stop="20261107090000 +0800">
+		<title lang="zh">今日环球</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261107090000 +0800" stop="20261107092800 +0800">
+		<title lang="zh">时代追梦人(15)</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261107092800 +0800" stop="20261107102800 +0800">
+		<title lang="zh">中国文艺:致敬经典</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261107102800 +0800" stop="20261107113000 +0800">
+		<title lang="zh">环球综艺秀</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261107113000 +0800" stop="20261107120000 +0800">
+		<title lang="zh">海峡两岸</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261107120000 +0800" stop="20261107130200 +0800">
+		<title lang="zh">中国新闻</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261107130200 +0800" stop="20261107133100 +0800">
+		<title lang="zh">华人故事</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261107130200 +0800" stop="20261107133100 +0800">
+		<title lang="zh">华人故事</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261107133100 +0800" stop="20261107141800 +0800">
+		<title lang="zh">归队(26)</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261107141800 +0800" stop="20261107150700 +0800">
+		<title lang="zh">归队(27)</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261107150700 +0800" stop="20261107155300 +0800">
+		<title lang="zh">归队(28)</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261107155300 +0800" stop="20261107164100 +0800">
+		<title lang="zh">归队(29)</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261107164100 +0800" stop="20261107173000 +0800">
+		<title lang="zh">归队(30)</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261107173000 +0800" stop="20261107190000 +0800">
+		<title lang="zh">青年科创Ⅰ(6)</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261107190000 +0800" stop="20261107193000 +0800">
+		<title lang="zh">中国新闻</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261107193000 +0800" stop="20261107200000 +0800">
+		<title lang="zh">今日亚洲</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261107200000 +0800" stop="20261107203000 +0800">
+		<title lang="zh">藏不住的好去处(5)</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261107203000 +0800" stop="20261107210000 +0800">
+		<title lang="zh">海峡两岸</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261107210000 +0800" stop="20261107213000 +0800">
+		<title lang="zh">中国新闻</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261107213000 +0800" stop="20261107220000 +0800">
+		<title lang="zh">今日关注</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261107220000 +0800" stop="20261107223000 +0800">
+		<title lang="zh">深度国际</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261107223000 +0800" stop="20261107230400 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261107230400 +0800" stop="20261107235900 +0800">
+		<title lang="zh">健康中国</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261107235900 +0800" stop="20261108004500 +0800">
+		<title lang="zh">种墨园(5)</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108004500 +0800" stop="20261108013100 +0800">
+		<title lang="zh">种墨园(6)</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108013100 +0800" stop="20261108015800 +0800">
+		<title lang="zh">中国缘</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108015800 +0800" stop="20261108020000 +0800">
+		<title lang="zh">&lt;记住乡愁&gt;片段展播(43)</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108020000 +0800" stop="20261108023000 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108023000 +0800" stop="20261108024500 +0800">
+		<title lang="zh">平凡匠心</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108024500 +0800" stop="20261108031400 +0800">
+		<title lang="zh">华人故事</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108031400 +0800" stop="20261108034200 +0800">
+		<title lang="zh">深度国际</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108034200 +0800" stop="20261108034500 +0800">
+		<title lang="zh">&lt;记住乡愁&gt;片段展播(41)</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108034500 +0800" stop="20261108034700 +0800">
+		<title lang="zh">&lt;记住乡愁&gt;片段展播(42)</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108034700 +0800" stop="20261108035100 +0800">
+		<title lang="zh">&lt;记住乡愁&gt;片段展播(1)</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108035100 +0800" stop="20261108040000 +0800">
+		<title lang="zh">&lt;记住乡愁&gt;片段展播(3)</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108040000 +0800" stop="20261108043000 +0800">
+		<title lang="zh">中国新闻</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108043000 +0800" stop="20261108050000 +0800">
+		<title lang="zh">今日关注</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108050000 +0800" stop="20261108060000 +0800">
+		<title lang="zh">中国文艺:致敬经典</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108060000 +0800" stop="20261108063000 +0800">
+		<title lang="zh">海峡两岸</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108063000 +0800" stop="20261108070000 +0800">
+		<title lang="zh">今日亚洲</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108070000 +0800" stop="20261108073000 +0800">
+		<title lang="zh">中国新闻</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108073000 +0800" stop="20261108080000 +0800">
+		<title lang="zh">今日关注</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108080000 +0800" stop="20261108090000 +0800">
+		<title lang="zh">今日环球</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108090000 +0800" stop="20261108092700 +0800">
+		<title lang="zh">国家记忆</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108092700 +0800" stop="20261108095700 +0800">
+		<title lang="zh">国家记忆</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108095700 +0800" stop="20261108102700 +0800">
+		<title lang="zh">国家记忆</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108102700 +0800" stop="20261108105400 +0800">
+		<title lang="zh">国家记忆</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108105400 +0800" stop="20261108113000 +0800">
+		<title lang="zh">国家记忆</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108113000 +0800" stop="20261108120000 +0800">
+		<title lang="zh">海峡两岸</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108120000 +0800" stop="20261108130400 +0800">
+		<title lang="zh">中国新闻</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108130400 +0800" stop="20261108133100 +0800">
+		<title lang="zh">中国缘</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108130400 +0800" stop="20261108133100 +0800">
+		<title lang="zh">中国缘</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108133100 +0800" stop="20261108141800 +0800">
+		<title lang="zh">归队(31)</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108141800 +0800" stop="20261108150600 +0800">
+		<title lang="zh">归队(32)</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108150600 +0800" stop="20261108155300 +0800">
+		<title lang="zh">归队(33)</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108155300 +0800" stop="20261108164100 +0800">
+		<title lang="zh">归队(34)</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108164100 +0800" stop="20261108165700 +0800">
+		<title lang="zh">平凡匠心</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108165700 +0800" stop="20261108170000 +0800">
+		<title lang="zh">&lt;记住乡愁&gt;片段展播(16)</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108170000 +0800" stop="20261108180000 +0800">
+		<title lang="zh">健康中国</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108180000 +0800" stop="20261108190000 +0800">
+		<title lang="zh">环球综艺秀</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108190000 +0800" stop="20261108193000 +0800">
+		<title lang="zh">中国舆论场</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108193000 +0800" stop="20261108203000 +0800">
+		<title lang="zh">名厨家宴(1)</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108203000 +0800" stop="20261108210000 +0800">
+		<title lang="zh">海峡两岸</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108210000 +0800" stop="20261108213000 +0800">
+		<title lang="zh">中国新闻</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108213000 +0800" stop="20261108220000 +0800">
+		<title lang="zh">今日关注</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108220000 +0800" stop="20261108223000 +0800">
+		<title lang="zh">时代追梦人(16)</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108223000 +0800" stop="20261108230400 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108230400 +0800" stop="20261108233100 +0800">
+		<title lang="zh">国宝发现</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261108233100 +0800" stop="20261109000000 +0800">
+		<title lang="zh">种墨园(7)</title>
+	</programme>
 	<programme channel="CCTV-4" start="20261109001700 +0800" stop="20261109010300 +0800">
 		<title lang="zh">种墨园第8集</title>
 	</programme>
@@ -858,12 +3177,486 @@
 	<programme channel="CCTV-4" start="20261110230400 +0800" stop="20261110235000 +0800">
 		<title lang="zh">种墨园13/34</title>
 	</programme>
-	<programme channel="CCTV-4" start="20261110235000 +0800" stop="20261111003600 +0800">
+	<programme channel="CCTV-4" start="20261110235000 +0800" stop="20261111000000 +0800">
 		<title lang="zh">种墨园14/34</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261111000000 +0800" stop="20261111003600 +0800">
+		<title lang="zh">种墨园(14)</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261111003600 +0800" stop="20261111012300 +0800">
+		<title lang="zh">种墨园(15)</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261111012300 +0800" stop="20261111015300 +0800">
+		<title lang="zh">中国文艺</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261111015300 +0800" stop="20261111020000 +0800">
+		<title lang="zh">&lt;记住乡愁&gt;片段展播(6)</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261111020000 +0800" stop="20261111023000 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261111023000 +0800" stop="20261111030000 +0800">
+		<title lang="zh">走遍中国</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261111030000 +0800" stop="20261111030400 +0800">
+		<title lang="zh">&lt;记住乡愁&gt;片段展播(7)</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261111030400 +0800" stop="20261111030700 +0800">
+		<title lang="zh">&lt;记住乡愁&gt;片段展播(9)</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261111030700 +0800" stop="20261111031000 +0800">
+		<title lang="zh">&lt;记住乡愁&gt;片段展播(21)</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261111031000 +0800" stop="20261111040000 +0800">
+		<title lang="zh">远方的家</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261111040000 +0800" stop="20261111043000 +0800">
+		<title lang="zh">中国新闻</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261111043000 +0800" stop="20261111050000 +0800">
+		<title lang="zh">今日关注</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261111050000 +0800" stop="20261111053000 +0800">
+		<title lang="zh">国家记忆</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261111053000 +0800" stop="20261111060000 +0800">
+		<title lang="zh">走遍中国</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261111060000 +0800" stop="20261111063000 +0800">
+		<title lang="zh">海峡两岸</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261111063000 +0800" stop="20261111070000 +0800">
+		<title lang="zh">今日亚洲</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261111070000 +0800" stop="20261111073000 +0800">
+		<title lang="zh">中国新闻</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261111073000 +0800" stop="20261111080000 +0800">
+		<title lang="zh">今日关注</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261111080000 +0800" stop="20261111090000 +0800">
+		<title lang="zh">今日环球</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261111090000 +0800" stop="20261111092800 +0800">
+		<title lang="zh">今日亚洲</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261111092800 +0800" stop="20261111100000 +0800">
+		<title lang="zh">中国文艺</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261111100000 +0800" stop="20261111103000 +0800">
+		<title lang="zh">国台办新闻发布会</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261111103000 +0800" stop="20261111105800 +0800">
+		<title lang="zh">走遍中国</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261111105800 +0800" stop="20261111113000 +0800">
+		<title lang="zh">国家记忆</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261111113000 +0800" stop="20261111120000 +0800">
+		<title lang="zh">海峡两岸</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261111120000 +0800" stop="20261111130500 +0800">
+		<title lang="zh">中国新闻</title>
+	</programme>
+	<programme channel="CCTV-4" start="20261111130500 +0800" stop="20261111135400 +0800">
+		<title lang="zh">春晖(11)</title>
 	</programme>
 	<channel id="CCTV-5">
 		<display-name lang="zh">CCTV-5</display-name>
 	</channel>
+	<programme channel="CCTV-5" start="20261104000500 +0800" stop="20261104010600 +0800">
+		<title lang="zh">顶级赛事-围棋</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261104010600 +0800" stop="20261104023600 +0800">
+		<title lang="zh">国际足球赛场-26-27赛季英超联赛第3轮 埃弗顿-曼联(4K)</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261104023600 +0800" stop="20261104040000 +0800">
+		<title lang="zh">实况录像-2026/2027赛季中国男子篮球职业联赛第4轮 广东东阳光-宁波町渥</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261104040000 +0800" stop="20261104053000 +0800">
+		<title lang="zh">实况录像-2026年世界田联钻石联赛 巴黎站</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261104053000 +0800" stop="20261104060000 +0800">
+		<title lang="zh">实况录像-2026年射箭世界杯 中国站 3</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261104060000 +0800" stop="20261104063000 +0800">
+		<title lang="zh">2026/2027法国足球甲级联赛-第4轮集锦(4K)</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261104063000 +0800" stop="20261104070000 +0800">
+		<title lang="zh">健身动起来</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261104070000 +0800" stop="20261104080300 +0800">
+		<title lang="zh">体坛晨报</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261104080300 +0800" stop="20261104090100 +0800">
+		<title lang="zh">实况录像-2026年世界泳联游泳世界杯 乌兹别克斯坦站2</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261104090100 +0800" stop="20261104103100 +0800">
+		<title lang="zh">国际足球赛场-26-27赛季英超联赛第9轮 考文垂城-桑德兰(4K)</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261104103100 +0800" stop="20261104115500 +0800">
+		<title lang="zh">实况录像-2026/2027赛季中国男子篮球职业联赛 第8轮 山西汾酒-新疆广汇能源</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261104115500 +0800" stop="20261104120000 +0800">
+		<title lang="zh">健身动起来</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261104120000 +0800" stop="20261104123500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261104123500 +0800" stop="20261104125800 +0800">
+		<title lang="zh">艺术里的奥林匹克(4K)</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261104125800 +0800" stop="20261104140000 +0800">
+		<title lang="zh">实况录像-2026年青奥会 游泳比赛(录播)3</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261104140000 +0800" stop="20261104163000 +0800">
+		<title lang="zh">2026/2027赛季斯诺克国际锦标赛-1/4决赛1</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261104163000 +0800" stop="20261104165500 +0800">
+		<title lang="zh">实况录像-2026年国际篮联三人篮球世界巡回赛 中国澳门站</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261104165500 +0800" stop="20261104170000 +0800">
+		<title lang="zh">健身动起来</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261104170000 +0800" stop="20261104180000 +0800">
+		<title lang="zh">运动一起赢</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261104180000 +0800" stop="20261104183000 +0800">
+		<title lang="zh">体育新闻</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261104183000 +0800" stop="20261104190000 +0800">
+		<title lang="zh">2026/2027英格兰足球超级联赛-第9轮集锦(4K)</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261104190000 +0800" stop="20261104210000 +0800">
+		<title lang="zh">2026年世界举重锦标赛-男子95公斤级</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261104210000 +0800" stop="20261104213000 +0800">
+		<title lang="zh">实况录像-2026/2027赛季短道速滑世界巡回赛 加拿大温哥华站 25分钟版</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261104213000 +0800" stop="20261104223000 +0800">
+		<title lang="zh">体育世界</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261104223000 +0800" stop="20261104230000 +0800">
+		<title lang="zh">实况录像-2026年亚残运会 比赛 2</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261104230000 +0800" stop="20261105000000 +0800">
+		<title lang="zh">2026国际足联U17女足世界杯-半决赛1</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261105010600 +0800" stop="20261105023600 +0800">
+		<title lang="zh">国际足球赛场-26-27赛季英超联赛第4轮 利物浦-富勒姆(4K)</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261105023600 +0800" stop="20261105040000 +0800">
+		<title lang="zh">实况录像-2026/2027赛季中国男子篮球职业联赛 第4轮 辽宁本钢-新疆广汇能源</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261105040000 +0800" stop="20261105053000 +0800">
+		<title lang="zh">实况录像-2026年世界田联钻石联赛 尤金站</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261105053000 +0800" stop="20261105060000 +0800">
+		<title lang="zh">实况录像-2026年射箭世界杯 西班牙站 1</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261105060000 +0800" stop="20261105063000 +0800">
+		<title lang="zh">2026/2027法国足球甲级联赛-第6轮集锦(4K)</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261105063000 +0800" stop="20261105070000 +0800">
+		<title lang="zh">健身动起来</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261105070000 +0800" stop="20261105080300 +0800">
+		<title lang="zh">体坛晨报</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261105080300 +0800" stop="20261105090100 +0800">
+		<title lang="zh">实况录像-2026年世界泳联游泳世界杯 哈萨克斯坦站 1</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261105090100 +0800" stop="20261105103100 +0800">
+		<title lang="zh">国际足球赛场-26-27赛季英超联赛第9轮 利物浦-阿森纳(4K)</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261105103100 +0800" stop="20261105115500 +0800">
+		<title lang="zh">实况录像-2026/2027赛季中国男子篮球职业联赛 第7轮 北京首钢-浙江浙商证券</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261105115500 +0800" stop="20261105120000 +0800">
+		<title lang="zh">健身动起来</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261105120000 +0800" stop="20261105123500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261105123500 +0800" stop="20261105125800 +0800">
+		<title lang="zh">艺术里的奥林匹克(4K)</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261105125800 +0800" stop="20261105140000 +0800">
+		<title lang="zh">实况录像-2026年青奥会 游泳比赛(录播)4</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261105140000 +0800" stop="20261105170000 +0800">
+		<title lang="zh">2026/2027赛季斯诺克国际锦标赛-半决赛1 第一阶段</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261105170000 +0800" stop="20261105180000 +0800">
+		<title lang="zh">实况录像-2026/2027赛季短道速滑世界巡回赛 加拿大蒙特利尔站 2</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261105180000 +0800" stop="20261105183000 +0800">
+		<title lang="zh">体育新闻</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261105183000 +0800" stop="20261105190000 +0800">
+		<title lang="zh">体坛零距离(4K)</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261105190000 +0800" stop="20261105210000 +0800">
+		<title lang="zh">2026年世界举重锦标赛-女子77公斤级</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261105210000 +0800" stop="20261105220000 +0800">
+		<title lang="zh">足球之夜</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261105220000 +0800" stop="20261105230500 +0800">
+		<title lang="zh">体育世界</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261105230500 +0800" stop="20261105233500 +0800">
+		<title lang="zh">2026/2027英格兰足球超级联赛-第9轮集锦(4K)</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261105233500 +0800" stop="20261106010600 +0800">
+		<title lang="zh">实况录像-2026/2027赛季花样滑冰大奖赛 加拿大站 2</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261106010600 +0800" stop="20261106023600 +0800">
+		<title lang="zh">国际足球赛场-26-27赛季英超联赛第5轮 伯恩茅斯-利物浦(4K)</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261106023600 +0800" stop="20261106040000 +0800">
+		<title lang="zh">实况录像-2026/2027赛季中国男子篮球职业联赛 第5轮 上海久事-广东东阳光</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261106040000 +0800" stop="20261106053000 +0800">
+		<title lang="zh">实况录像-2026年世界田联钻石联赛 摩纳哥站</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261106053000 +0800" stop="20261106060000 +0800">
+		<title lang="zh">实况录像-2026年射箭世界杯 西班牙站 2</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261106060000 +0800" stop="20261106063000 +0800">
+		<title lang="zh">2026/2027英格兰足球超级联赛-第4轮集锦(4K)</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261106063000 +0800" stop="20261106070000 +0800">
+		<title lang="zh">健身动起来</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261106070000 +0800" stop="20261106080300 +0800">
+		<title lang="zh">体坛晨报</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261106080300 +0800" stop="20261106090100 +0800">
+		<title lang="zh">实况录像-2026年世界泳联游泳世界杯 哈萨克斯坦站 2</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261106090100 +0800" stop="20261106103100 +0800">
+		<title lang="zh">国际足球赛场-26-27赛季法甲联赛第9轮 斯特拉斯堡-欧塞尔(4K)</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261106103100 +0800" stop="20261106115500 +0800">
+		<title lang="zh">实况录像-2026/2027赛季中国男子篮球职业联赛 第8轮 广东东阳光-青岛崂山啤酒</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261106115500 +0800" stop="20261106120000 +0800">
+		<title lang="zh">健身动起来</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261106120000 +0800" stop="20261106123500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261106123500 +0800" stop="20261106125500 +0800">
+		<title lang="zh">艺术里的奥林匹克(4K)</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261106125500 +0800" stop="20261106135000 +0800">
+		<title lang="zh">实况录像-2026年世界职业拳王争霸赛 12</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261106135000 +0800" stop="20261106144500 +0800">
+		<title lang="zh">实况录像-2026年青奥会 游泳比赛(录播)5</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261106144500 +0800" stop="20261106161000 +0800">
+		<title lang="zh">2026中国杯世界花样滑冰大奖赛-冰舞韵律舞</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261106161000 +0800" stop="20261106162500 +0800">
+		<title lang="zh">实况录像-精彩一刻-2026年蹦床世界杯 意大利里乔内站 中国队两金一银</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261106162500 +0800" stop="20261106163000 +0800">
+		<title lang="zh">健身动起来</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261106163000 +0800" stop="20261106173000 +0800">
+		<title lang="zh">运动一起赢</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261106173000 +0800" stop="20261106180500 +0800">
+		<title lang="zh">体育新闻</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261106180500 +0800" stop="20261106190000 +0800">
+		<title lang="zh">篮球公园</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261106190000 +0800" stop="20261106201000 +0800">
+		<title lang="zh">2026中国杯世界花样滑冰大奖赛-双人短节目</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261106201000 +0800" stop="20261106220000 +0800">
+		<title lang="zh">2026/2027赛季斯诺克国际锦标赛-半决赛2 第二阶段</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261106220000 +0800" stop="20261106230500 +0800">
+		<title lang="zh">体育世界</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261106230500 +0800" stop="20261107000000 +0800">
+		<title lang="zh">实况录像-2026/2027赛季短道速滑世界巡回赛 加拿大温哥华站 1</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261107000000 +0800" stop="20261107000500 +0800">
+		<title lang="zh">短道速滑世界巡回赛温哥华站</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261107000500 +0800" stop="20261107010600 +0800">
+		<title lang="zh">2026年国际自盟场地自行车世锦赛</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261107010600 +0800" stop="20261107023600 +0800">
+		<title lang="zh">英超第6轮:水晶宫-诺丁汉森林</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261107023600 +0800" stop="20261107040000 +0800">
+		<title lang="zh">CBA第5轮:深圳马可波罗-山西汾酒</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261107040000 +0800" stop="20261107053000 +0800">
+		<title lang="zh">2026年世界田联钻石联赛伦敦站</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261107053000 +0800" stop="20261107055500 +0800">
+		<title lang="zh">精品赛事记录:2026年射箭世界杯</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261107055500 +0800" stop="20261107060000 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261107060000 +0800" stop="20261107063000 +0800">
+		<title lang="zh">2026/2027英超联赛第8轮集锦</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261107063000 +0800" stop="20261107070000 +0800">
+		<title lang="zh">健身动起来</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261107070000 +0800" stop="20261107080300 +0800">
+		<title lang="zh">体坛晨报</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261107080300 +0800" stop="20261107093000 +0800">
+		<title lang="zh">2026年世界体操锦标赛单项决赛</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261107093000 +0800" stop="20261107100000 +0800">
+		<title lang="zh">2026/2027英超联赛第9轮集锦</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261107100000 +0800" stop="20261107110800 +0800">
+		<title lang="zh">WTT法兰克福冠军赛单打1/8决赛</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261107110800 +0800" stop="20261107111000 +0800">
+		<title lang="zh">十佳球</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261107111000 +0800" stop="20261107111200 +0800">
+		<title lang="zh">五佳球</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261107111200 +0800" stop="20261107122300 +0800">
+		<title lang="zh">2026/2027NBA杯赛:开拓者-湖人</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261107122300 +0800" stop="20261107124000 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261107124000 +0800" stop="20261107133500 +0800">
+		<title lang="zh">2026/2027NBA杯赛:开拓者-湖人</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261107124000 +0800" stop="20261107133500 +0800">
+		<title lang="zh">2026/2027NBA杯赛:开拓者-湖人</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261107133500 +0800" stop="20261107143000 +0800">
+		<title lang="zh">2026年青奥会游泳比赛</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261107143000 +0800" stop="20261107161500 +0800">
+		<title lang="zh">中国杯世界花滑大奖赛冰舞自由舞</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261107161500 +0800" stop="20261107163000 +0800">
+		<title lang="zh">荣耀十分:场地自行车世界锦标赛</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261107163000 +0800" stop="20261107182000 +0800">
+		<title lang="zh">中国杯世界花滑大奖赛女单自由滑</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261107182000 +0800" stop="20261107184000 +0800">
+		<title lang="zh">体育新闻</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261107184000 +0800" stop="20261107200000 +0800">
+		<title lang="zh">中国杯世界花滑大奖赛双人自由滑</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261107200000 +0800" stop="20261107223000 +0800">
+		<title lang="zh">WTT法兰克福冠军赛1/4决赛</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261107223000 +0800" stop="20261107230000 +0800">
+		<title lang="zh">短道速滑世界巡回赛蒙特利尔站</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261107230000 +0800" stop="20261108010600 +0800">
+		<title lang="zh">英超联赛第10轮:阿森纳-赫尔城</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261108010600 +0800" stop="20261108023600 +0800">
+		<title lang="zh">德甲第6轮:拜仁慕尼黑-莱比锡</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261108023600 +0800" stop="20261108040000 +0800">
+		<title lang="zh">CBA第5轮:山东高速-北京首钢</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261108040000 +0800" stop="20261108053000 +0800">
+		<title lang="zh">2026年世界田联钻石联赛洛桑站</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261108053000 +0800" stop="20261108055500 +0800">
+		<title lang="zh">精品赛事记录:2026年射箭世界杯</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261108055500 +0800" stop="20261108060000 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261108060000 +0800" stop="20261108063000 +0800">
+		<title lang="zh">2026/2027英超联赛第6轮集锦</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261108063000 +0800" stop="20261108070000 +0800">
+		<title lang="zh">健身动起来</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261108070000 +0800" stop="20261108080300 +0800">
+		<title lang="zh">体坛晨报</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261108080300 +0800" stop="20261108090000 +0800">
+		<title lang="zh">短道速滑世界巡回赛温哥华站</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261108090000 +0800" stop="20261108090500 +0800">
+		<title lang="zh">十佳球</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261108090500 +0800" stop="20261108101000 +0800">
+		<title lang="zh">2026/2027NBA常规赛:尼克斯-骑士</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261108101000 +0800" stop="20261108101600 +0800">
+		<title lang="zh">十佳球</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261108101600 +0800" stop="20261108113000 +0800">
+		<title lang="zh">2026/2027NBA常规赛:尼克斯-骑士</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261108113000 +0800" stop="20261108115500 +0800">
+		<title lang="zh">2026/2027法甲联赛第9轮集锦</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261108115500 +0800" stop="20261108120000 +0800">
+		<title lang="zh">健身动起来</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261108120000 +0800" stop="20261108123500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261108123500 +0800" stop="20261108125700 +0800">
+		<title lang="zh">艺术里的奥林匹克</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261108125700 +0800" stop="20261108150000 +0800">
+		<title lang="zh">中国杯世界花滑大奖赛男单自由滑</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261108125700 +0800" stop="20261108150000 +0800">
+		<title lang="zh">中国杯世界花滑大奖赛男单自由滑</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261108150000 +0800" stop="20261108160000 +0800">
+		<title lang="zh">中超第30轮:山东泰山-成都蓉城</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261108160000 +0800" stop="20261108170000 +0800">
+		<title lang="zh">中超第30轮:山东泰山-成都蓉城</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261108170000 +0800" stop="20261108175500 +0800">
+		<title lang="zh">中超第30轮:山东泰山-成都蓉城</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261108175500 +0800" stop="20261108182500 +0800">
+		<title lang="zh">体育新闻</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261108182500 +0800" stop="20261108192500 +0800">
+		<title lang="zh">WTT法兰克福冠军赛2026半决赛</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261108192500 +0800" stop="20261108202500 +0800">
+		<title lang="zh">WTT法兰克福冠军赛2026半决赛</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261108202500 +0800" stop="20261108212500 +0800">
+		<title lang="zh">WTT法兰克福冠军赛2026半决赛</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261108212500 +0800" stop="20261108215500 +0800">
+		<title lang="zh">WTT法兰克福冠军赛2026半决赛</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261108215500 +0800" stop="20261108225500 +0800">
+		<title lang="zh">英超联赛第10轮:水晶宫-利物浦</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261108225500 +0800" stop="20261109000000 +0800">
+		<title lang="zh">英超联赛第10轮:水晶宫-利物浦</title>
+	</programme>
 	<programme channel="CCTV-5" start="20261109000300 +0800" stop="20261109003000 +0800">
 		<title lang="zh">实况录像-2026年世界田联钻石联赛 布鲁塞尔站25分钟版 1</title>
 	</programme>
@@ -1014,7 +3807,58 @@
 	<programme channel="CCTV-5" start="20261110213000 +0800" stop="20261110223500 +0800">
 		<title lang="zh">体育世界</title>
 	</programme>
-	<programme channel="CCTV-5" start="20261110223500 +0800" stop="20261111000500 +0800">
+	<programme channel="CCTV-5" start="20261110223500 +0800" stop="20261111000000 +0800">
 		<title lang="zh">实况录像-2026年世界体操锦标赛 男子个人全能决赛</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261111000000 +0800" stop="20261111000500 +0800">
+		<title lang="zh">世界体操锦标赛男子个人全能决赛</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261111000500 +0800" stop="20261111010600 +0800">
+		<title lang="zh">顶级赛事:围棋</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261111010600 +0800" stop="20261111023600 +0800">
+		<title lang="zh">法甲第6轮:巴黎圣日耳曼-勒芒</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261111023600 +0800" stop="20261111040000 +0800">
+		<title lang="zh">CBA第7轮:山东高速-广东东阳光</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261111040000 +0800" stop="20261111053000 +0800">
+		<title lang="zh">2026世界田联钻石联赛布鲁塞尔站</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261111053000 +0800" stop="20261111055500 +0800">
+		<title lang="zh">精品赛事记录:2026年射箭世界杯</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261111055500 +0800" stop="20261111060000 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261111060000 +0800" stop="20261111063000 +0800">
+		<title lang="zh">2026/2027法甲联赛第6轮集锦</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261111063000 +0800" stop="20261111070000 +0800">
+		<title lang="zh">健身动起来</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261111070000 +0800" stop="20261111080300 +0800">
+		<title lang="zh">体坛晨报</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261111080300 +0800" stop="20261111090000 +0800">
+		<title lang="zh">短道速滑世界巡回赛蒙特利尔站</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261111090000 +0800" stop="20261111113000 +0800">
+		<title lang="zh">NBA常规赛:凯尔特人-76人</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261111113000 +0800" stop="20261111115500 +0800">
+		<title lang="zh">2026/2027法甲联赛第10轮集锦</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261111115500 +0800" stop="20261111120000 +0800">
+		<title lang="zh">健身动起来</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261111120000 +0800" stop="20261111123500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261111123500 +0800" stop="20261111125800 +0800">
+		<title lang="zh">艺术里的奥林匹克</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261111125800 +0800" stop="20261111143000 +0800">
+		<title lang="zh">2026/2027赛季斯诺克国际锦标赛</title>
 	</programme>
 </tv>
