@@ -1,1 +1,7 @@
 Name: 自定义频道名称1, URL: https://xxx.m3u8, From: local, IPv_Type: ipv4, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-4, URL: https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1794286800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-2814a7be9d4fd5bad2f4b02fa6659edd&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-5, URL: http://116.52.173.150:1234/641886683, From: subscribe, IPv_Type: ipv4, Location: 中国-云南-昆明, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-3, URL: http://116.52.173.150:1234/624878271, From: subscribe, IPv_Type: ipv4, Location: 中国-云南-昆明, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-1, URL: http://116.52.173.150:1234/608807420, From: subscribe, IPv_Type: ipv4, Location: 中国-云南-昆明, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-2, URL: http://116.52.173.150:1234/631780532, From: subscribe, IPv_Type: ipv4, Location: 中国-云南-昆明, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-4, URL: http://116.52.173.150:1234/631780421, From: subscribe, IPv_Type: ipv4, Location: 中国-云南-昆明, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
