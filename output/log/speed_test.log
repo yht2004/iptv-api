@@ -1,9 +1,3 @@
 Name: 自定义频道名称1, URL: https://xxx.m3u8, From: local, IPv_Type: ipv4, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-4, URL: https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1794485700-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-15f07ee64d8e86a9ce6efe40d41c5fda&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-4, URL: http://112.85.93.7:7788/608807416, From: subscribe, IPv_Type: ipv4, Location: 中国-江苏-连云港, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-4, URL: http://113.124.186.195:7788/608807416, From: subscribe, IPv_Type: ipv4, Location: 中国-山东-潍坊, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-4, URL: http://42.94.209.184:7788/608807416, From: subscribe, IPv_Type: ipv4, Location: 中国-甘肃-酒泉, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-4, URL: http://116.237.170.51:7788/608807416, From: subscribe, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-5, URL: http://45.192.97.170:8880/play/196.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 2542 ms, Speed: 1.31 M/s, Resolution: 1920x1080
-Name: CCTV-4, URL: http://175.169.113.102:1234/608807416, From: subscribe, IPv_Type: ipv4, Location: 中国-辽宁-沈阳, ISP: 联通, Date: None, Delay: 2066 ms, Speed: 1.61 M/s, Resolution: 1280x720
-Name: CCTV-4, URL: http://mtayeh.ottb.xyz/live/774710333494/659822672281/58638.ts, From: subscribe, IPv_Type: ipv4, Location: 克罗地亚, ISP: , Date: None, Delay: 496 ms, Speed: 3.54 M/s, Resolution: 1920x1080
+Name: CCTV-5, URL: http://45.192.97.170:8880/play/196.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 2604 ms, Speed: 1.77 M/s, Resolution: 1920x1080
+Name: CCTV-4, URL: http://mtayeh.ottb.xyz/live/774710333494/659822672281/58638.ts, From: subscribe, IPv_Type: ipv4, Location: 克罗地亚, ISP: , Date: None, Delay: 599 ms, Speed: 3.62 M/s, Resolution: 1920x1080
