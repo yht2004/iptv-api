@@ -1,3 +1,15 @@
+Name: CCTV-2, URL: http://112.85.93.3:7788/631780532, From: subscribe, IPv_Type: ipv4, Location: 中国-江苏-连云港, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-3, URL: http://182.115.48.79:20002/624878271, From: subscribe, IPv_Type: ipv4, Location: 中国-河南-新乡, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-4, URL: http://112.85.93.3:7788/608807419, From: subscribe, IPv_Type: ipv4, Location: 中国-江苏-连云港, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-1, URL: http://112.85.93.3:7788/608807420, From: subscribe, IPv_Type: ipv4, Location: 中国-江苏-连云港, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-1, URL: http://182.115.48.79:20002/608807420, From: subscribe, IPv_Type: ipv4, Location: 中国-河南-新乡, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 自定义频道名称1, URL: https://xxx.m3u8, From: local, IPv_Type: ipv4, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-5, URL: http://45.192.97.170:8880/play/196.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 691 ms, Speed: 3.30 M/s, Resolution: 1920x1080
-Name: CCTV-4, URL: http://mtayeh.ottb.xyz/live/774710333494/659822672281/58638.ts, From: subscribe, IPv_Type: ipv4, Location: 克罗地亚, ISP: , Date: None, Delay: 507 ms, Speed: 5.52 M/s, Resolution: 1920x1080
+Name: CCTV-4, URL: https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1794751200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-088b2aa2dcde212e8135ff46739450f1&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-2, URL: http://182.115.48.79:20002/631780532, From: subscribe, IPv_Type: ipv4, Location: 中国-河南-新乡, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-4, URL: http://182.115.48.79:20002/608807419, From: subscribe, IPv_Type: ipv4, Location: 中国-河南-新乡, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-5, URL: http://45.192.97.170:8880/play/196.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 791 ms, Speed: 3.23 M/s, Resolution: 1920x1080
+Name: CCTV-4, URL: http://mtayeh.ottb.xyz/live/774710333494/659822672281/58638.ts, From: subscribe, IPv_Type: ipv4, Location: 克罗地亚, ISP: , Date: None, Delay: 410 ms, Speed: 3.70 M/s, Resolution: 1920x1080
+Name: CCTV-1, URL: http://49.70.189.149:60001/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-江苏-镇江, ISP: 电信, Date: None, Delay: 10694 ms, Speed: 0.07 M/s, Resolution: None
+Name: CCTV-2, URL: http://36.24.254.207:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-3, URL: http://36.24.254.207:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-5, URL: http://36.24.254.207:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
