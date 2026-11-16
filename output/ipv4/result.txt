@@ -1,9 +1,13 @@
 🕘️更新时间,#genre#
-2026-11-16 09:32:10,http://mtayeh.ottb.xyz/live/774710333494/659822672281/58638.ts
+2026-11-17 03:58:45,http://101.66.194.88:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 
 📺央视频道,#genre#
+CCTV-1,http://101.66.194.88:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-1,http://60.187.246.34:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://hns.7159287.xyz:8767/cctv2.m3u8
+CCTV-3,http://60.187.246.34:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,http://mtayeh.ottb.xyz/live/774710333494/659822672281/58638.ts
-CCTV-5,http://45.192.97.170:8880/play/196.m3u8
+CCTV-5,http://60.187.246.34:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 
 自定义频道分类,#genre#
 自定义频道名称4,https://xxx.m3u8
