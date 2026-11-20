@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-11-20 02:47:25,http://hns.7159287.xyz:8767/cctv2.m3u8
+2026-11-20 10:54:12,https://xxx.m3u8
 
 📺央视频道,#genre#
-CCTV-2,http://hns.7159287.xyz:8767/cctv2.m3u8
 
 自定义频道分类,#genre#
 自定义频道名称4,https://xxx.m3u8
