@@ -1,5 +1,3 @@
 Name: 自定义频道名称1, URL: https://xxx.m3u8, From: local, IPv_Type: ipv4, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-5, URL: http://173.208.234.146/live/cctv5.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: WholeSale互联网股份有限公司, Date: None, Delay: 462 ms, Speed: 3.47 M/s, Resolution: 1920x1080
-Name: CCTV-5, URL: http://120.76.248.139/live/bfgd/4200000246.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 阿里云BGP数据中心, Date: None, Delay: 2248 ms, Speed: 2.96 M/s, Resolution: 1920x1080
-Name: CCTV-1, URL: http://218.13.139.26:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-佛山, ISP: 电信, Date: None, Delay: 10579 ms, Speed: 0.50 M/s, Resolution: 1920x1080
-Name: CCTV-4, URL: http://182.115.48.225:20002/608807416, From: subscribe, IPv_Type: ipv4, Location: 中国-河南-新乡, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-5, URL: http://173.208.234.146/live/cctv5.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: WholeSale互联网股份有限公司, Date: None, Delay: 714 ms, Speed: 5.67 M/s, Resolution: 1920x1080
+Name: CCTV-5, URL: http://120.76.248.139/live/bfgd/4200000246.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 阿里云BGP数据中心, Date: None, Delay: 10976 ms, Speed: 0.00 M/s, Resolution: 1920x1080
