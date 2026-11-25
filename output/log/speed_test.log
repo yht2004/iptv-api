@@ -1,11 +1,2 @@
-Name: CCTV-5, URL: http://173.208.234.146/live/cctv5.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: WholeSale互联网股份有限公司, Date: None, Delay: 153 ms, Speed: 10.93 M/s, Resolution: 1920x1080
 Name: 自定义频道名称1, URL: https://xxx.m3u8, From: local, IPv_Type: ipv4, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-3, URL: http://104.152.209.49:8181/720p/cctv3.m3u8, From: subscribe, IPv_Type: ipv4, Location: 北美地区, ISP: , Date: None, Delay: 407 ms, Speed: 6.13 M/s, Resolution: 1280x720
-Name: CCTV-4, URL: http://60.223.94.153:9003/hls/4/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-晋中, ISP: 联通, Date: None, Delay: 10028 ms, Speed: 0.02 M/s, Resolution: 1920x1080
-Name: CCTV-1, URL: http://58.54.146.106:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-荆州, ISP: 电信, Date: None, Delay: 10893 ms, Speed: 0.10 M/s, Resolution: 1920x1080
-Name: CCTV-4, URL: http://61.138.99.166:10080/hls/4/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-内蒙古-包头, ISP: 联通, Date: None, Delay: 10008 ms, Speed: 0.03 M/s, Resolution: None
-Name: CCTV-2, URL: http://61.138.99.166:10080/hls/2/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-内蒙古-包头, ISP: 联通, Date: None, Delay: 10020 ms, Speed: 0.03 M/s, Resolution: None
-Name: CCTV-4, URL: http://218.13.139.26:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-佛山, ISP: 电信, Date: None, Delay: 10944 ms, Speed: 0.87 M/s, Resolution: None
-Name: CCTV-4, URL: http://123.160.235.204:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-河南-郑州, ISP: 电信, Date: None, Delay: 10292 ms, Speed: 0.01 M/s, Resolution: None
-Name: CCTV-3, URL: http://123.160.235.204:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-河南-郑州, ISP: 电信, Date: None, Delay: 10256 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-5, URL: http://123.160.235.204:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-河南-郑州, ISP: 电信, Date: None, Delay: 10314 ms, Speed: 0.02 M/s, Resolution: None
+Name: CCTV-5, URL: http://173.208.234.146/live/cctv5.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: WholeSale互联网股份有限公司, Date: None, Delay: 427 ms, Speed: 10.18 M/s, Resolution: 1920x1080
