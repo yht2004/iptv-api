@@ -1,18 +1,10 @@
 🕘️更新时间,#genre#
-2026-11-27 03:24:03,http://mg.cttv.vip/608807420
+2026-11-27 11:55:00,http://mg.cttv.vip/608807416
 
 📺央视频道,#genre#
-CCTV-1,http://mg.cttv.vip/608807420
-CCTV-1,http://154.8.225.238:9991/migu/migu.php?id=608807420
-CCTV-2,http://sagrad.org:8181/3m1080p/cctv2.m3u8
-CCTV-2,http://mg.cttv.vip/631780532
-CCTV-2,http://123.160.235.204:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-2,http://154.8.225.238:9991/migu/migu.php?id=631780532
-CCTV-3,http://154.8.225.238:9991/migu/migu.php?id=624878271
-CCTV-4,http://mg.cttv.vip/631780421
-CCTV-4,http://154.8.225.238:9991/migu/migu.php?id=608807416
+CCTV-4,http://mg.cttv.vip/608807416
+CCTV-4,http://154.8.225.238:9991/migu/migu.php?id=608807419
 CCTV-5,http://173.208.234.146/live/cctv5.m3u8
-CCTV-5,http://154.8.225.238:9991/migu/migu.php?id=641886683
 
 自定义频道分类,#genre#
 自定义频道名称4,https://xxx.m3u8
