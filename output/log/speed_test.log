@@ -1,2 +1,3 @@
 Name: 自定义频道名称1, URL: https://xxx.m3u8, From: local, IPv_Type: ipv4, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-5, URL: http://173.208.234.146/live/cctv5.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: WholeSale互联网股份有限公司, Date: None, Delay: 312 ms, Speed: 9.51 M/s, Resolution: 1920x1080
+Name: CCTV-5, URL: http://173.208.234.146/live/cctv5.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: WholeSale互联网股份有限公司, Date: None, Delay: 547 ms, Speed: 7.08 M/s, Resolution: 1920x1080
+Name: CCTV-4, URL: http://222.89.19.13:808/hls/4/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-河南-信阳, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
